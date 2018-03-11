@@ -11,7 +11,7 @@ The official Wannatalk Messenger Objective-C (iOS) API
 - CocoaPods
 	- Add below line to your podfile:
   
-      ```pod 'WTExternal', :git =>'https://github.com/edzehoo/WannatalkAPI-iOS.git'```
+      ```pod 'WTExternalSDK', :git =>'https://github.com/edzehoo/WannatalkAPI-iOS.git'```
   
 	- Run  `pod install`
 
