@@ -1,0 +1,369 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C5792A4E20555CF000EFA4D1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C5792A4D20555CF000EFA4D1 /* AppDelegate.m */; };
+		C5792A5120555CF000EFA4D1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C5792A5020555CF000EFA4D1 /* ViewController.m */; };
+		C5792A5420555CF000EFA4D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5792A5220555CF000EFA4D1 /* Main.storyboard */; };
+		C5792A5620555CF000EFA4D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5792A5520555CF000EFA4D1 /* Assets.xcassets */; };
+		C5792A5920555CF000EFA4D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5792A5720555CF000EFA4D1 /* LaunchScreen.storyboard */; };
+		C5792A5C20555CF000EFA4D1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C5792A5B20555CF000EFA4D1 /* main.m */; };
+		C5998EF92055965400DBC2B8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C5998EF82055965400DBC2B8 /* README.md */; };
+		C5998F022055A95400DBC2B8 /* WTExternalSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C5998F002055A95300DBC2B8 /* WTExternalSDK.framework */; };
+		C5998F032055A95400DBC2B8 /* WTService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C5998F012055A95300DBC2B8 /* WTService-Info.plist */; };
+		C5998F052055A95E00DBC2B8 /* WTExternalSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C5998F002055A95300DBC2B8 /* WTExternalSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C5EE7838205560DD002216A1 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				C5998F052055A95E00DBC2B8 /* WTExternalSDK.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		C5792A4920555CF000EFA4D1 /* WannatalkAPI-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WannatalkAPI-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C5792A4C20555CF000EFA4D1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C5792A4D20555CF000EFA4D1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C5792A4F20555CF000EFA4D1 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		C5792A5020555CF000EFA4D1 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C5792A5320555CF000EFA4D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C5792A5520555CF000EFA4D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C5792A5820555CF000EFA4D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C5792A5A20555CF000EFA4D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C5792A5B20555CF000EFA4D1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C5998EF82055965400DBC2B8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		C5998F002055A95300DBC2B8 /* WTExternalSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WTExternalSDK.framework; sourceTree = "<group>"; };
+		C5998F012055A95300DBC2B8 /* WTService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "WTService-Info.plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C5792A4620555CF000EFA4D1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C5998F022055A95400DBC2B8 /* WTExternalSDK.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C5792A4020555CF000EFA4D1 = {
+			isa = PBXGroup;
+			children = (
+				C5792A4B20555CF000EFA4D1 /* WannatalkAPI-iOS */,
+				C5792A4A20555CF000EFA4D1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C5792A4A20555CF000EFA4D1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C5792A4920555CF000EFA4D1 /* WannatalkAPI-iOS.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C5792A4B20555CF000EFA4D1 /* WannatalkAPI-iOS */ = {
+			isa = PBXGroup;
+			children = (
+				C5998F002055A95300DBC2B8 /* WTExternalSDK.framework */,
+				C5998F012055A95300DBC2B8 /* WTService-Info.plist */,
+				C5792A4C20555CF000EFA4D1 /* AppDelegate.h */,
+				C5792A4D20555CF000EFA4D1 /* AppDelegate.m */,
+				C5792A4F20555CF000EFA4D1 /* ViewController.h */,
+				C5792A5020555CF000EFA4D1 /* ViewController.m */,
+				C5792A5220555CF000EFA4D1 /* Main.storyboard */,
+				C5792A5520555CF000EFA4D1 /* Assets.xcassets */,
+				C5792A5720555CF000EFA4D1 /* LaunchScreen.storyboard */,
+				C5792A5A20555CF000EFA4D1 /* Info.plist */,
+				C5792A5B20555CF000EFA4D1 /* main.m */,
+				C5998EF82055965400DBC2B8 /* README.md */,
+			);
+			path = "WannatalkAPI-iOS";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C5792A4820555CF000EFA4D1 /* WannatalkAPI-iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C5792A5F20555CF000EFA4D1 /* Build configuration list for PBXNativeTarget "WannatalkAPI-iOS" */;
+			buildPhases = (
+				C5792A4520555CF000EFA4D1 /* Sources */,
+				C5792A4620555CF000EFA4D1 /* Frameworks */,
+				C5792A4720555CF000EFA4D1 /* Resources */,
+				C5EE7838205560DD002216A1 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "WannatalkAPI-iOS";
+			productName = "WannatalkAPI-iOS";
+			productReference = C5792A4920555CF000EFA4D1 /* WannatalkAPI-iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C5792A4120555CF000EFA4D1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = Wannatalk;
+				TargetAttributes = {
+					C5792A4820555CF000EFA4D1 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C5792A4420555CF000EFA4D1 /* Build configuration list for PBXProject "WannatalkAPI-iOS" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C5792A4020555CF000EFA4D1;
+			productRefGroup = C5792A4A20555CF000EFA4D1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C5792A4820555CF000EFA4D1 /* WannatalkAPI-iOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C5792A4720555CF000EFA4D1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C5792A5920555CF000EFA4D1 /* LaunchScreen.storyboard in Resources */,
+				C5792A5620555CF000EFA4D1 /* Assets.xcassets in Resources */,
+				C5998EF92055965400DBC2B8 /* README.md in Resources */,
+				C5998F032055A95400DBC2B8 /* WTService-Info.plist in Resources */,
+				C5792A5420555CF000EFA4D1 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C5792A4520555CF000EFA4D1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C5792A5120555CF000EFA4D1 /* ViewController.m in Sources */,
+				C5792A5C20555CF000EFA4D1 /* main.m in Sources */,
+				C5792A4E20555CF000EFA4D1 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C5792A5220555CF000EFA4D1 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C5792A5320555CF000EFA4D1 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C5792A5720555CF000EFA4D1 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C5792A5820555CF000EFA4D1 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C5792A5D20555CF000EFA4D1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C5792A5E20555CF000EFA4D1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C5792A6020555CF000EFA4D1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = L57Q8QG3F6;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/WannatalkAPI-iOS",
+				);
+				INFOPLIST_FILE = "WannatalkAPI-iOS/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wannatalk.WannatalkAPI-iOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C5792A6120555CF000EFA4D1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = L57Q8QG3F6;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/WannatalkAPI-iOS",
+				);
+				INFOPLIST_FILE = "WannatalkAPI-iOS/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wannatalk.WannatalkAPI-iOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C5792A4420555CF000EFA4D1 /* Build configuration list for PBXProject "WannatalkAPI-iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C5792A5D20555CF000EFA4D1 /* Debug */,
+				C5792A5E20555CF000EFA4D1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C5792A5F20555CF000EFA4D1 /* Build configuration list for PBXNativeTarget "WannatalkAPI-iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C5792A6020555CF000EFA4D1 /* Debug */,
+				C5792A6120555CF000EFA4D1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C5792A4120555CF000EFA4D1 /* Project object */;
+}
