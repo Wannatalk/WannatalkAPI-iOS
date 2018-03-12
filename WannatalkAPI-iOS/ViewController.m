@@ -9,7 +9,11 @@
 #import "ViewController.h"
 #import <WTExternalSDK/WTExternalSDK.h>
 
-@interface ViewController () <WTSDKOrgProfileDelegate>
+@interface ViewController () <WTLoginManagerDelegate, WTSDKOrgProfileDelegate>
+@property (weak, nonatomic) IBOutlet UIButton *btnLogin;
+@property (weak, nonatomic) IBOutlet UIButton *btnOrgProfile;
+@property (weak, nonatomic) IBOutlet UIButton *btnSilentLogin;
+@property (weak, nonatomic) IBOutlet UIButton *btnLogout;
 
 @end
 
@@ -19,10 +23,13 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>"];
-
+    [WTLoginManager sharedInstance].delegate = self;
+    [self updateButtons];
 }
 
+- (void) viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
@@ -30,25 +37,51 @@
 }
 
 #pragma mark -
+- (void) updateButtons {
+    
+    BOOL userLoggedIn = [WTLoginManager sharedInstance].isUserLoggedIn;
+    self.btnLogin.hidden = userLoggedIn;
+    self.btnSilentLogin.hidden = userLoggedIn;
+    self.btnOrgProfile.hidden = !userLoggedIn;
+    self.btnLogout.hidden = !userLoggedIn;
+}
+#pragma mark -
+
+- (IBAction)silentLoginBtnClicked:(id)sender {
+    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>"];
+}
+
+- (IBAction)loginBtnClicked:(id)sender {
+    
+    [[WTLoginManager sharedInstance] loginFromVC:self];
+
+}
 
 - (IBAction)orgProfileClicked:(id)sender {
-    
     [self.navigationController pushOrgProfileVCWithDelegate:self animated:YES];
-    
 }
 
 - (IBAction)logoutClicked:(id)sender {
     [[WTLoginManager sharedInstance] logout];
 }
 
+#pragma mark - Delegate Methods
 #pragma mark -
+- (void) wtAccountDidLoginSuccessfully {
+    [self updateButtons];
+}
 
+- (void) wtAccountDidLogOutSuccessfully {
+    [self updateButtons];
+}
+
+#pragma mark -
 - (void) wtsdkOrgProfileDidLoadFailWithError:(NSString *)error {
-
+    
 }
 
 - (void) wtsdkOrgProfileDidLoadSuccesfully {
-
+    
 }
 
 @end

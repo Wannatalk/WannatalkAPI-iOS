@@ -1,46 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Itc-uS-EoZ">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Itc-uS-EoZ">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
-        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Wannatalk-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="78D-en-wi7"/>
+                        <viewControllerLayoutGuide type="bottom" id="e1s-wm-FpJ"/>
+                    </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hde-qh-Z2F">
-                                <rect key="frame" x="118" y="171" width="138" height="39"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Org Profile"/>
+                            <button hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hde-qh-Z2F">
+                                <rect key="frame" x="97" y="261" width="180" height="55"/>
+                                <color key="backgroundColor" red="0.15294117647058825" green="0.70588235294117641" blue="0.47058823529411764" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="55" id="pTj-GR-tLM"/>
+                                    <constraint firstAttribute="width" constant="180" id="qGz-r3-Eed"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                <state key="normal" title="Org Profile">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
                                 <connections>
                                     <action selector="orgProfileClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MZw-36-oeh"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="L4B-gR-UDf">
-                                <rect key="frame" x="118" y="291" width="138" height="39"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Logout"/>
+                            <button hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="O3K-zM-BRc">
+                                <rect key="frame" x="97" y="261" width="180" height="55"/>
+                                <color key="backgroundColor" red="0.29019607843137252" green="0.31372549019607843" blue="0.39215686274509803" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                <state key="normal" title="Login">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="loginBtnClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="drK-Mk-miG"/>
+                                </connections>
+                            </button>
+                            <button hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="L4B-gR-UDf">
+                                <rect key="frame" x="97" y="350" width="180" height="55"/>
+                                <color key="backgroundColor" red="0.29019607843137252" green="0.31372549019607843" blue="0.39215686274509803" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                <state key="normal" title="Logout">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
                                 <connections>
                                     <action selector="logoutClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Kd2-Mp-SZP"/>
                                 </connections>
                             </button>
+                            <button hidden="YES" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="srl-dj-iJd">
+                                <rect key="frame" x="97" y="350" width="180" height="55"/>
+                                <color key="backgroundColor" red="0.29019607843137252" green="0.31372549019607843" blue="0.39215686274509803" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                <state key="normal" title="Silent Login">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="silentLoginBtnClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="q4I-z0-KJv"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <constraints>
+                            <constraint firstItem="O3K-zM-BRc" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="-45" id="2ZH-hY-AR7"/>
+                            <constraint firstItem="L4B-gR-UDf" firstAttribute="height" secondItem="hde-qh-Z2F" secondAttribute="height" id="LPm-nk-mG8"/>
+                            <constraint firstItem="O3K-zM-BRc" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="MwF-09-qPn"/>
+                            <constraint firstItem="O3K-zM-BRc" firstAttribute="height" secondItem="hde-qh-Z2F" secondAttribute="height" id="Ra6-o4-vyr"/>
+                            <constraint firstItem="srl-dj-iJd" firstAttribute="height" secondItem="hde-qh-Z2F" secondAttribute="height" id="W23-8o-DD3"/>
+                            <constraint firstItem="L4B-gR-UDf" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="XIg-Bg-81V"/>
+                            <constraint firstItem="L4B-gR-UDf" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="44" id="aKB-Ce-7qL"/>
+                            <constraint firstItem="L4B-gR-UDf" firstAttribute="width" secondItem="hde-qh-Z2F" secondAttribute="width" id="dhc-pJ-Cgf"/>
+                            <constraint firstItem="srl-dj-iJd" firstAttribute="width" secondItem="hde-qh-Z2F" secondAttribute="width" id="eTz-Uj-PZd"/>
+                            <constraint firstItem="srl-dj-iJd" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="hFn-s4-qR8"/>
+                            <constraint firstItem="O3K-zM-BRc" firstAttribute="width" secondItem="hde-qh-Z2F" secondAttribute="width" id="lCW-BC-pnw"/>
+                            <constraint firstItem="srl-dj-iJd" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="44" id="qUM-qL-8e4"/>
+                            <constraint firstItem="hde-qh-Z2F" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="-45" id="rvW-g6-n3D"/>
+                            <constraint firstItem="hde-qh-Z2F" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="u3f-dd-J36"/>
+                        </constraints>
                     </view>
-                    <navigationItem key="navigationItem" id="oEe-Dn-ul1"/>
+                    <navigationItem key="navigationItem" title="Wannatalk" id="oEe-Dn-ul1"/>
+                    <connections>
+                        <outlet property="btnLogin" destination="O3K-zM-BRc" id="9xo-aO-Vj1"/>
+                        <outlet property="btnLogout" destination="L4B-gR-UDf" id="Lzd-eh-d2n"/>
+                        <outlet property="btnOrgProfile" destination="hde-qh-Z2F" id="anS-LK-e9f"/>
+                        <outlet property="btnSilentLogin" destination="srl-dj-iJd" id="7wS-ly-wjv"/>
+                    </connections>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1316" y="584.25787106446785"/>
         </scene>
