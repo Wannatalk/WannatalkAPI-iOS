@@ -8,10 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
-@protocol WTSDKOrgProfileDelegate;
+@protocol WTSDKManagerDelegate;
 
 @interface UINavigationController (WannatalkSDK)
 
-- (void) pushOrgProfileVCWithDelegate:(id <WTSDKOrgProfileDelegate>) delegate animated:(BOOL) animated;
+- (void) pushOrgProfileVCWithDelegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated;
+
+- (void) pushChatListVCWithDelegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated;
+
+- (void) pushUsersVCWithDelegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated;
 
 @end

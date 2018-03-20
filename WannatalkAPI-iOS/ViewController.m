@@ -9,7 +9,7 @@
 #import "ViewController.h"
 #import <WTExternalSDK/WTExternalSDK.h>
 
-@interface ViewController () <WTLoginManagerDelegate, WTSDKOrgProfileDelegate>
+@interface ViewController () <WTLoginManagerDelegate, WTSDKManagerDelegate>
 @property (weak, nonatomic) IBOutlet UIButton *btnLogin;
 @property (weak, nonatomic) IBOutlet UIButton *btnOrgProfile;
 @property (weak, nonatomic) IBOutlet UIButton *btnSilentLogin;
@@ -48,17 +48,26 @@
 #pragma mark -
 
 - (IBAction)silentLoginBtnClicked:(id)sender {
-    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>"];
+    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>" fromVC:self];
+
 }
 
 - (IBAction)loginBtnClicked:(id)sender {
     
     [[WTLoginManager sharedInstance] loginFromVC:self];
-
+    
 }
 
 - (IBAction)orgProfileClicked:(id)sender {
     [self.navigationController pushOrgProfileVCWithDelegate:self animated:YES];
+}
+
+- (void) loadChatList {
+    [self.navigationController pushChatListVCWithDelegate:self animated:YES];
+}
+
+- (void) loadUsers {
+    [self.navigationController pushUsersVCWithDelegate:self animated:YES];
 }
 
 - (IBAction)logoutClicked:(id)sender {

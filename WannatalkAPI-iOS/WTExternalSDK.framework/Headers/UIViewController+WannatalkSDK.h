@@ -8,10 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@protocol WTSDKOrgProfileDelegate;
+@protocol WTSDKManagerDelegate;
 
 @interface UIViewController (WannatalkSDK)
 
-- (void) presentOrgProfileVCWithDelegate:(id <WTSDKOrgProfileDelegate>) delegate animated:(BOOL) animated completion:(void (^ __nullable)(void))completion;
+- (void) presentOrgProfileVCWithDelegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated completion:(void (^ __nullable)(void))completion;
 
 @end

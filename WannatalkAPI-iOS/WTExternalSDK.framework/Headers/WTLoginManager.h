@@ -17,7 +17,7 @@
 @property (nonatomic, assign, readonly) BOOL isUserLoggedIn;
 
 - (void) loginFromVC:(UIViewController *) fromVC;
-- (void) silentLoginWithIdentifier:(NSString *) identifier;
+- (void) silentLoginWithIdentifier:(NSString *) identifier fromVC:(UIViewController *) fromVC;
 - (void) logout;
 
 @end
