@@ -9,17 +9,19 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+
 @protocol WTSDKManagerDelegate;
-@protocol WTSDKOrgProfileDelegate;
 
 @interface WTSDKManager : NSObject
-
 
 @property (nonatomic, weak) id<WTSDKManagerDelegate> delegate;
 
 + (WTSDKManager *) sharedInstance;
 
-- (void) clearTempDirectory;
++ (UIViewController *) getInitialViewController;
++ (UIViewController *) getAllTopicsViewController;
++ (UIViewController *) getPeopleViewController;
+
++ (void) ClearTempDirectory;
 
 @end
-

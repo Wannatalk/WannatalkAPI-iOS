@@ -13,5 +13,7 @@
 @interface UIViewController (WannatalkSDK)
 
 - (void) presentOrgProfileVCWithDelegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated completion:(void (^ __nullable)(void))completion;
+- (void) presentChatListVCWithDelegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated completion:(void (^ __nullable)(void))completion;
+- (void) presentUsersVCWithDelegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated completion:(void (^ __nullable)(void))completion;
 
 @end

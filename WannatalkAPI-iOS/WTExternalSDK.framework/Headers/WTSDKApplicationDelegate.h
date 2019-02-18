@@ -16,9 +16,9 @@
 
 #pragma mark - Application Delegates
 
-- (void) application:(UIApplication *)application didFinishLaunchingWithOptions:launchOptions;
+- (void) application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions;
 
-- (void) application:(UIApplication *)application handleEventsForBackgroundURLSession:(NSString *)identifier completionHandler:(void (^)())completionHandler;
+- (void) application:(UIApplication *)application handleEventsForBackgroundURLSession:(NSString *)identifier completionHandler:(void (^)(void))completionHandler;
 
 - (BOOL)application:(UIApplication *)app
             openURL:(NSURL *)url
@@ -48,7 +48,7 @@ fetchCompletionHandler:(void (^)(UIBackgroundFetchResult))completionHandler;
 
 - (void) application:(UIApplication *)application handleActionWithIdentifier:(NSString *)identifier forLocalNotification:(UILocalNotification *)notification withResponseInfo:(NSDictionary *)responseInfo completionHandler:(void (^)())completionHandler;
 
-
+- (BOOL)application:(UIApplication *)application continueUserActivity:(NSUserActivity *)userActivity restorationHandler:(void(^)(NSArray<id<UIUserActivityRestoring>> * __nullable restorableObjects))restorationHandler NS_AVAILABLE_IOS(8_0);
 
 
 @end
