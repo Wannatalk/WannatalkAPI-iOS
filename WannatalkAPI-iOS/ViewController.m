@@ -41,7 +41,7 @@
     
     BOOL userLoggedIn = [WTLoginManager sharedInstance].isUserLoggedIn;
     self.btnLogin.hidden = userLoggedIn;
-    self.btnSilentLogin.hidden = YES;//userLoggedIn;
+    self.btnSilentLogin.hidden = userLoggedIn;
     self.btnOrgProfile.hidden = !userLoggedIn;
     self.btnLogout.hidden = !userLoggedIn;
 }
@@ -50,7 +50,7 @@
 
 - (IBAction)silentLoginBtnClicked:(id)sender {
     
-//    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>" fromVC:self];
+    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>" fromVC:self];
 
 }
 
