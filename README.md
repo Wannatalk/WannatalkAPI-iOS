@@ -39,6 +39,13 @@ The official Wannatalk Messenger Objective-C (iOS) API
 //#import <WTExternalSDK/WTExternalSDK.h>
 [[WTSDKApplicationDelegate sharedInstance] application:application didFinishLaunchingWithOptions:launchOptions];
 ```
+## To strip simulator architecture framework for your app submission
+1. Copy **trim.sh** file into your project folder.
+2. Create Run Script Phase in Build Phases of your application target.
+3. Paste `"$SRCROOT/trim.sh"` inside the body of Run Script Phase.
+4. Enable `Run script only when installing` and `Show environment variables in build log`.
+<img src="Screenshots/Screenshot1.png" width="500">
+
 ## To link Wannatalk account
     [[WTLoginManager sharedInstance] loginFromVC:self];
 
