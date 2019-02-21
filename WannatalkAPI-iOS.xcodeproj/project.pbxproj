@@ -107,6 +107,7 @@
 				C5792A4620555CF000EFA4D1 /* Frameworks */,
 				C5792A4720555CF000EFA4D1 /* Resources */,
 				C5EE7838205560DD002216A1 /* Embed Frameworks */,
+				C5B74016221F15F2008CFE1F /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -164,6 +165,26 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		C5B74016221F15F2008CFE1F /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 8;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+			shellPath = /bin/sh;
+			shellScript = "\"$SRCROOT/Xcode/trim.sh\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		C5792A4520555CF000EFA4D1 /* Sources */ = {
