@@ -55,6 +55,9 @@ The official Wannatalk Messenger Objective-C (iOS) API
 
 ## HelpDesk
 ### To load your organization profile
+    // - (void) pushOrgProfileVCWithAutoOpenChat:(BOOL) autoOpenChat delegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated;
+    // Recent chat page will be opened when click on channel if autoOpenChat is true, otherwise chat list page will be opened.
+    
     [self.navigationController pushOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES];
     
     or
@@ -67,3 +70,24 @@ The official Wannatalk Messenger Objective-C (iOS) API
     
 ### To view all users
     [self.navigationController pushUsersVCWithDelegate:self animated:YES];
+
+## Push notifications
+1. Generate APNs certificate for development and production and send us p12 files with their passwords. 
+2. Please include below methods in your app’s AppDelegate class.
+```
+    - (void)application:(UIApplication *)application didRegisterForRemoteNotificationsWithDeviceToken:(NSData *)deviceToken {  
+        [[WTSDKApplicationDelegate sharedInstance] application:application didRegisterForRemoteNotificationsWithDeviceToken:deviceToken]; 
+    }
+        
+    - (void)application:(UIApplication *)application didReceiveRemoteNotification:(NSDictionary *)userInfo { 
+        [[WTSDKApplicationDelegate sharedInstance] application:application didReceiveRemoteNotification:userInfo];
+    }
+        
+    - (void) application:(UIApplication *)application handleActionWithIdentifier:(NSString *)identifier forLocalNotification:(UILocalNotification *)notification completionHandler:(void (^)())completionHandler { 
+        [[WTSDKApplicationDelegate sharedInstance] application:application handleActionWithIdentifier:identifier forLocalNotification:notification completionHandler:completionHandler]; 
+    }
+        
+    - (void) application:(UIApplication *)application handleActionWithIdentifier:(NSString *)identifier forLocalNotification:(UILocalNotification *)notification withResponseInfo:(NSDictionary *)responseInfo completionHandler:(void (^)())completionHandler {  
+        [[WTSDKApplicationDelegate sharedInstance] application:application handleActionWithIdentifier:identifier forLocalNotification:notification withResponseInfo:responseInfo completionHandler:completionHandler]; 
+    } 
+```
