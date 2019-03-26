@@ -50,11 +50,16 @@ The official Wannatalk Messenger Objective-C (iOS) API
     [[WTLoginManager sharedInstance] loginFromVC:self];
 
 ## To link Wannatalk account without otp verification
-    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>" fromVC:self];
+    NSDictionary *userInfo = @{ @"key1": @"value1", @"key2": @"value2"};
+    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>" userInfo:userInfo fromVC:self];
 
 ## HelpDesk
 ### To load your organization profile
-    [self.navigationController pushOrgProfileVCWithDelegate:self animated:YES];
+    [self.navigationController pushOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES];
+    
+    or
+    
+    [self presentOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES completion:nil];
 
 ## Collaboration
 ### To view all chats

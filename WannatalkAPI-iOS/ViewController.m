@@ -50,7 +50,8 @@
 
 - (IBAction)silentLoginBtnClicked:(id)sender {
     
-    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>" fromVC:self];
+    NSDictionary *userInfo = @{ @"key1": @"value1", @"key2": @"value2"};
+    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>" userInfo:userInfo fromVC:self];
 
 }
 
@@ -61,7 +62,8 @@
 }
 
 - (IBAction)orgProfileClicked:(id)sender {
-    [self.navigationController pushOrgProfileVCWithDelegate:self animated:YES];
+    [self.navigationController pushOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES];
+//    [self presentOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES completion:nil];
 }
 
 - (void) loadChatList {
