@@ -23,5 +23,6 @@
 + (UIViewController *) getPeopleViewController;
 
 + (void) ClearTempDirectory;
++ (void) ShowGuideButton:(BOOL) show;
 
 @end

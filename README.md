@@ -91,3 +91,7 @@ The official Wannatalk Messenger Objective-C (iOS) API
         [[WTSDKApplicationDelegate sharedInstance] application:application handleActionWithIdentifier:identifier forLocalNotification:notification withResponseInfo:responseInfo completionHandler:completionHandler]; 
     } 
 ```
+## Other
+### Show or hide guide button
+    [WTSDKManager ShowGuideButton:NO];
+

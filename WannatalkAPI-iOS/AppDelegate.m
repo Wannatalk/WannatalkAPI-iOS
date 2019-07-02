@@ -19,6 +19,9 @@
     // Override point for customization after application launch.
 
     [[WTSDKApplicationDelegate sharedInstance] application:application didFinishLaunchingWithOptions:launchOptions];
+    
+    // Hide Guide Button
+    [WTSDKManager ShowGuideButton:NO];
     return YES;
 }
 
