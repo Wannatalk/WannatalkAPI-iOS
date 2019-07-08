@@ -93,5 +93,13 @@ The official Wannatalk Messenger Objective-C (iOS) API
 ```
 ## Other
 ### Show or hide guide button
-    [WTSDKManager ShowGuideButton:NO];
+    [WTSDKManager ShowGuideButton:NO]; // Default Value: true
 
+### To show or hide Add Participants in chat item profile
+    [WTSDKManager ShouldAllowAddParticipant:NO]; // Default Value: true
+
+### To show or hide microphone in chat page
+    [WTSDKManager ShouldAllowSendAudioMessage:NO]; // Default Value: true
+
+### To show or hide welcome message
+    [WTSDKManager ShowWelcomeMessage:NO]; // Default Value: false

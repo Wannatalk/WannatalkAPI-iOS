@@ -24,5 +24,7 @@
 
 + (void) ClearTempDirectory;
 + (void) ShowGuideButton:(BOOL) show;
-
++ (void) ShouldAllowSendAudioMessage:(BOOL) allow;
++ (void) ShouldAllowAddParticipant:(BOOL) allow;
++ (void) ShowWelcomeMessage:(BOOL) show;
 @end

@@ -23,6 +23,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    [WTSDKManager ShouldAllowSendAudioMessage:NO];
+    [WTSDKManager ShouldAllowAddParticipant:NO];
+    
     [WTLoginManager sharedInstance].delegate = self;
     [self updateButtons];
 }
