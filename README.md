@@ -10,8 +10,7 @@ The official Wannatalk Messenger Objective-C (iOS) API
 1. **SDK Integration**
 - CocoaPods
 	- Add below line to your podfile:
-  
-      ```pod 'WTExternalSDK', :git =>'https://github.com/edzehoo/WannatalkAPI-iOS.git'```
+      ```pod 'WTExternalSDK', :git =>'https://github.com/edzehoo/WannatalkAPI-iOS.git', :tag => '1.2.5'```
   
 	- Run  `pod install`
 
@@ -94,6 +93,9 @@ The official Wannatalk Messenger Objective-C (iOS) API
 ## Other
 ### Show or hide guide button
     [WTSDKManager ShowGuideButton:NO]; // Default Value: true
+
+### To show or hide Profile Info page
+    [WTSDKManager ShowProfileInfoPage:NO]; // Default Value: true
 
 ### To show or hide Add Participants in chat item profile
     [WTSDKManager ShouldAllowAddParticipant:NO]; // Default Value: true

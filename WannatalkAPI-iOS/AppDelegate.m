@@ -20,8 +20,11 @@
 
     [[WTSDKApplicationDelegate sharedInstance] application:application didFinishLaunchingWithOptions:launchOptions];
     
-    // Hide Guide Button
     [WTSDKManager ShowGuideButton:NO];
+    [WTSDKManager ShowProfileInfoPage:NO];
+    [WTSDKManager ShouldAllowSendAudioMessage:NO];
+    [WTSDKManager ShouldAllowAddParticipant:NO];
+    
     return YES;
 }
 

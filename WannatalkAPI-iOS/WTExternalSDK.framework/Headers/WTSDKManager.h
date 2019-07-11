@@ -27,4 +27,6 @@
 + (void) ShouldAllowSendAudioMessage:(BOOL) allow;
 + (void) ShouldAllowAddParticipant:(BOOL) allow;
 + (void) ShowWelcomeMessage:(BOOL) show;
++ (void) ShowProfileInfoPage:(BOOL) show;
+
 @end
