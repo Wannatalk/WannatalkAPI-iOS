@@ -51,5 +51,10 @@
 	<string>The app requires access to location to display it in map</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>The app requires access to microphone to record live photos and movies</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
 </dict>
 </plist>
