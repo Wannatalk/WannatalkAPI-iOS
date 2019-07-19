@@ -29,4 +29,6 @@
 + (void) ShowWelcomeMessage:(BOOL) show;
 + (void) ShowProfileInfoPage:(BOOL) show;
 
++ (void) ShowDebugLogs:(BOOL) show;
+
 @end
