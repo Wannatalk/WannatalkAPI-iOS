@@ -10,7 +10,7 @@ The official Wannatalk Messenger Objective-C (iOS) API
 1. **SDK Integration**
 - CocoaPods
 	- Add below line to your podfile:
-      ```pod 'WTExternalSDK', :git =>'https://github.com/edzehoo/WannatalkAPI-iOS.git', :tag => '1.2.9'```
+      ```pod 'WTExternalSDK', :git =>'https://github.com/edzehoo/WannatalkAPI-iOS.git', :tag => '1.2.10'```
   
 	- Run  `pod install`
 
@@ -105,3 +105,6 @@ The official Wannatalk Messenger Objective-C (iOS) API
 
 ### To show or hide welcome message
     [WTSDKManager ShowWelcomeMessage:NO]; // Default Value: false
+
+### To create auto tickets: All tickets will create automatically when autotickets is true, otherwise user have to enter subject to create ticket
+    [WTSDKManager EnableAutoTickets:YES]; // Default Value: false

@@ -28,6 +28,7 @@
 + (void) ShouldAllowAddParticipant:(BOOL) allow;
 + (void) ShowWelcomeMessage:(BOOL) show;
 + (void) ShowProfileInfoPage:(BOOL) show;
++ (void) EnableAutoTickets:(BOOL) enable;
 
 + (void) ShowDebugLogs:(BOOL) show;
 

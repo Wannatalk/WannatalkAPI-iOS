@@ -24,6 +24,7 @@
     [WTSDKManager ShowProfileInfoPage:NO];
     [WTSDKManager ShouldAllowSendAudioMessage:NO];
     [WTSDKManager ShouldAllowAddParticipant:NO];
+    [WTSDKManager EnableAutoTickets:YES];
     
     return YES;
 }
