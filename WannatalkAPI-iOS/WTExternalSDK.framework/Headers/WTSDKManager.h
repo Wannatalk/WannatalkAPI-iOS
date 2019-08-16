@@ -26,6 +26,7 @@
 + (void) ShowGuideButton:(BOOL) show;
 + (void) ShouldAllowSendAudioMessage:(BOOL) allow;
 + (void) ShouldAllowAddParticipant:(BOOL) allow;
++ (void) ShouldAllowRemoveParticipant:(BOOL) allow;
 + (void) ShowWelcomeMessage:(BOOL) show;
 + (void) ShowProfileInfoPage:(BOOL) show;
 + (void) EnableAutoTickets:(BOOL) enable;
