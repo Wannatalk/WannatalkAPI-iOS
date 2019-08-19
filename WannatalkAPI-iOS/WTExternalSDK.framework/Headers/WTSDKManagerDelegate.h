@@ -17,10 +17,10 @@
 - (void) wtsdkOrgProfileDidLoadSuccesfully;
 - (void) wtsdkOrgProfileDidLoadFailWithError:(NSString *) error;
 
-- (void) wtsdkChatListDidLoadSuccesfully;
+//- (void) wtsdkChatListDidLoadSuccesfully;
 - (void) wtsdkChatListDidLoadFailWithError:(NSString *) error;
 
-- (void) wtsdkUsersDidLoadSuccesfully;
+//- (void) wtsdkUsersDidLoadSuccesfully;
 - (void) wtsdkUsersDidLoadFailWithError:(NSString *) error;
 
 @end

@@ -31,6 +31,11 @@
 + (void) ShowProfileInfoPage:(BOOL) show;
 + (void) EnableAutoTickets:(BOOL) enable;
 
++ (void) ShowExitButton:(BOOL) show;
++ (void) ShowChatParticipants:(BOOL) show;
++ (void) EnableChatProfile:(BOOL) enable;
++ (void) AllowModifyChatProfile:(BOOL) allow;
+
 + (void) ShowDebugLogs:(BOOL) show;
 
 @end

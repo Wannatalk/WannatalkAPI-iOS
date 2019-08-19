@@ -26,6 +26,9 @@
     [WTSDKManager ShouldAllowAddParticipant:NO];
     [WTSDKManager EnableAutoTickets:YES];
     
+    [WTSDKManager ShowExitButton:YES];
+    [WTSDKManager EnableChatProfile:NO];
+    
     return YES;
 }
 
