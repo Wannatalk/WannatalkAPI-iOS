@@ -51,7 +51,7 @@
 - (IBAction)silentLoginBtnClicked:(id)sender {
     
     NSDictionary *userInfo = @{ @"key1": @"value1", @"key2": @"value2"};
-    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>" userInfo:userInfo fromVC:self];
+    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<identifier>" userInfo:userInfo fromVC:self];
 
 }
 

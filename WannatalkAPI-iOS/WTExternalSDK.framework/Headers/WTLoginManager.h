@@ -24,7 +24,7 @@
 // To login into wannatalk account
 - (void) loginFromVC:(UIViewController *) fromVC;
 
-// Logins with user details
+// To login with user details
 - (void) silentLoginWithIdentifier:(NSString *) identifier userInfo:(NSDictionary *)userInfo fromVC:(UIViewController *) fromVC;
 
 // To logout from wannatalk
