@@ -10,7 +10,7 @@ The official Wannatalk Messenger Objective-C (iOS) API
 1. **SDK Integration**
 - CocoaPods
 	- Add below line to your podfile:
-      ```pod 'WTExternalSDK', :git =>'https://github.com/edzehoo/WannatalkAPI-iOS.git', :tag => '1.3.4'```
+      ```pod 'WTExternalSDK', :git =>'https://github.com/edzehoo/WannatalkAPI-iOS.git', :tag => '1.3.5'```
   
 	- Run  `pod install`
 
@@ -91,29 +91,43 @@ The official Wannatalk Messenger Objective-C (iOS) API
     } 
 ```
 ## Other
-### Show or hide guide button
-    [WTSDKManager ShowGuideButton:NO]; // Default Value: true
 
-### To show or hide Profile Info page
-    [WTSDKManager ShowProfileInfoPage:NO]; // Default Value: true
+### To show or hide guide button
+    [WTSDKManager ShowGuideButton:YES];               // default = YES
 
-### To show or hide Add Participants in chat item profile
-    [WTSDKManager ShouldAllowAddParticipant:NO]; // Default Value: true
+### To enable or disable sending audio message
+    [WTSDKManager ShouldAllowSendAudioMessage:NO];  // default = YES
 
-### To show or hide microphone in chat page
-    [WTSDKManager ShouldAllowSendAudioMessage:NO]; // Default Value: true
+### To show or hide add participants option in new ticket page and chat item profile page
+    [WTSDKManager ShouldAllowAddParticipant:NO];    // default = YES
+
+### To show or hide remove participants option in chat item profile
+    [WTSDKManager ShouldAllowRemoveParticipant:NO]; // default = NO
 
 ### To show or hide welcome message
-    [WTSDKManager ShowWelcomeMessage:NO]; // Default Value: false
+    [WTSDKManager ShowWelcomeMessage:YES];            // default = NO
 
-### To create auto tickets: All tickets will create automatically when autotickets is true, otherwise user have to enter subject to create ticket
-    [WTSDKManager EnableAutoTickets:YES]; // Default Value: false
+### To show or hide Profile Info page
+    [WTSDKManager ShowProfileInfoPage:NO];           // default = YES
+
+### To create auto tickets: 
+Chat ticket will create automatically when auto tickets is enabled, otherwise default ticket creation page will popup
+
+    [WTSDKManager EnableAutoTickets:YES];           // default = NO
+
+### To show or hide close chat button in chat page
+    [WTSDKManager ShowExitButton:YES];                // default = NO
+
+### To show or hide participants in chat profile page
+    [WTSDKManager ShowChatParticipants:NO];          // default = YES
 
 ### To enable or disbale chat profile page
-    [WTSDKManager EnableChatProfile:NO]; // Default Value: true
-    
-### To show or hide close button in chat page
-    [WTSDKManager ShowExitButton:YES]; // Default Value: false
-    
-### To show or hide participants in chat profile page
-    [WTSDKManager ShowChatParticipants:NO]; // Default Value: true
+    [WTSDKManager EnableChatProfile:NO];           // default = YES
+
+### To allow modify  in chat profile page
+    [WTSDKManager AllowModifyChatProfile:NO];       // default = YES
+
+### To set Inactive chat timeout:  
+Chat session will end if user is inactive for timeout interval duration. If timeout interval is 0, chat session will not end automatically. The default timout interval is 1800 seconds (30 minutes).
+
+    [WTSDKManager SetInactiveChatTimeoutInterval:1800];   // default = 1800 seconds (30 minutes).
