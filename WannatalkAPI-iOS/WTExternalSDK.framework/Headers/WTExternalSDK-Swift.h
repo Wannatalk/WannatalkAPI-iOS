@@ -168,7 +168,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreGraphics;
 @import Foundation;
 @import ObjectiveC;
 @import UIKit;
@@ -189,67 +188,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
-enum CircularTransitionMode : NSInteger;
-@class UIColor;
-
-SWIFT_CLASS("_TtC13WTExternalSDK18CircularTransition")
-@interface CircularTransition : NSObject
-@property (nonatomic) enum CircularTransitionMode transitionMode;
-- (void)setPresentTransitionWithStartingPoint:(CGPoint)startingPoint circleColor:(UIColor * _Nonnull)circleColor;
-- (void)setDismissTransitionWithStartingPoint:(CGPoint)startingPoint circleColor:(UIColor * _Nonnull)circleColor;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-typedef SWIFT_ENUM(NSInteger, CircularTransitionMode, closed) {
-  CircularTransitionModePresent = 0,
-  CircularTransitionModeDismiss = 1,
-  CircularTransitionModePop = 2,
-};
-
-@protocol UIViewControllerContextTransitioning;
-
-@interface CircularTransition (SWIFT_EXTENSION(WTExternalSDK)) <UIViewControllerAnimatedTransitioning>
-- (NSTimeInterval)transitionDuration:(id <UIViewControllerContextTransitioning> _Nullable)transitionContext SWIFT_WARN_UNUSED_RESULT;
-- (void)animateTransition:(id <UIViewControllerContextTransitioning> _Nonnull)transitionContext;
-@end
-
-enum CircularTransitionV2Mode : NSInteger;
-
-SWIFT_CLASS("_TtC13WTExternalSDK20CircularTransitionV2")
-@interface CircularTransitionV2 : NSObject
-@property (nonatomic) CGPoint startingPoint;
-@property (nonatomic, strong) UIColor * _Nonnull circleColor;
-@property (nonatomic) double duration;
-@property (nonatomic) enum CircularTransitionV2Mode transitionMode;
-- (void)setPresentTransitionWithStartingPoint:(CGPoint)startingPoint circleColor:(UIColor * _Nonnull)circleColor;
-- (void)setDismissTransitionWithStartingPoint:(CGPoint)startingPoint circleColor:(UIColor * _Nonnull)circleColor;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-typedef SWIFT_ENUM(NSInteger, CircularTransitionV2Mode, closed) {
-  CircularTransitionV2ModePresent = 0,
-  CircularTransitionV2ModeDismiss = 1,
-  CircularTransitionV2ModePop = 2,
-};
-
-
-@interface CircularTransitionV2 (SWIFT_EXTENSION(WTExternalSDK)) <UIViewControllerAnimatedTransitioning>
-- (NSTimeInterval)transitionDuration:(id <UIViewControllerContextTransitioning> _Nullable)transitionContext SWIFT_WARN_UNUSED_RESULT;
-- (void)animateTransition:(id <UIViewControllerContextTransitioning> _Nonnull)transitionContext;
-@end
-
-typedef SWIFT_ENUM(NSInteger, ConnectionType, closed) {
-  ConnectionTypeHub = 0,
-  ConnectionTypePersistent = 1,
-};
-
-
-SWIFT_CLASS("_TtC13WTExternalSDK16CustomInteractor")
-@interface CustomInteractor : UIPercentDrivenInteractiveTransition
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
-@end
-
 
 SWIFT_CLASS("_TtC13WTExternalSDK3Hub")
 @interface Hub : NSObject
@@ -260,11 +198,27 @@ SWIFT_CLASS("_TtC13WTExternalSDK3Hub")
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
 
-typedef SWIFT_ENUM(NSInteger, State, closed) {
-  StateConnecting = 0,
-  StateConnected = 1,
-  StateDisconnected = 2,
-};
+
+SWIFT_CLASS("_TtC13WTExternalSDK21SignalrConnectionType")
+@interface SignalrConnectionType : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger Hub;)
++ (NSInteger)Hub SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger Persistent;)
++ (NSInteger)Persistent SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC13WTExternalSDK12SignalrState")
+@interface SignalrState : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger Connecting;)
++ (NSInteger)Connecting SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger Connected;)
++ (NSInteger)Connected SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger Disconnected;)
++ (NSInteger)Disconnected SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
 
 @class WKWebView;
 @class WKNavigation;
@@ -275,9 +229,10 @@ typedef SWIFT_ENUM(NSInteger, State, closed) {
 SWIFT_CLASS("_TtC13WTExternalSDK12SwiftSignalR")
 @interface SwiftSignalR : NSObject
 @property (nonatomic) BOOL useWKWebView;
+@property (nonatomic) NSInteger transport;
 /// load Web resource from the provided url, which will be used as Origin HTTP header
 @property (nonatomic, copy) NSString * _Nullable originUrlString;
-@property (nonatomic) enum State state;
+@property (nonatomic) NSInteger state;
 @property (nonatomic, copy) NSString * _Nullable connectionID;
 @property (nonatomic, copy) void (^ _Nullable received)(id _Nullable);
 @property (nonatomic, copy) void (^ _Nullable starting)(void);
@@ -291,7 +246,7 @@ SWIFT_CLASS("_TtC13WTExternalSDK12SwiftSignalR")
 @property (nonatomic, copy) NSString * _Nullable customUserAgent;
 @property (nonatomic) id _Nullable queryString;
 @property (nonatomic, copy) NSDictionary<NSString *, NSString *> * _Nullable headers;
-- (nonnull instancetype)init:(NSString * _Nonnull)baseUrl connectionType:(enum ConnectionType)connectionType OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init:(NSString * _Nonnull)baseUrl connectionType:(NSInteger)connectionType OBJC_DESIGNATED_INITIALIZER;
 - (void)connect:(void (^ _Nullable)(void))callback;
 - (Hub * _Nonnull)createHubProxy:(NSString * _Nonnull)name SWIFT_WARN_UNUSED_RESULT;
 - (void)addHub:(Hub * _Nonnull)hub;
@@ -479,7 +434,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreGraphics;
 @import Foundation;
 @import ObjectiveC;
 @import UIKit;
@@ -500,67 +454,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
-enum CircularTransitionMode : NSInteger;
-@class UIColor;
-
-SWIFT_CLASS("_TtC13WTExternalSDK18CircularTransition")
-@interface CircularTransition : NSObject
-@property (nonatomic) enum CircularTransitionMode transitionMode;
-- (void)setPresentTransitionWithStartingPoint:(CGPoint)startingPoint circleColor:(UIColor * _Nonnull)circleColor;
-- (void)setDismissTransitionWithStartingPoint:(CGPoint)startingPoint circleColor:(UIColor * _Nonnull)circleColor;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-typedef SWIFT_ENUM(NSInteger, CircularTransitionMode, closed) {
-  CircularTransitionModePresent = 0,
-  CircularTransitionModeDismiss = 1,
-  CircularTransitionModePop = 2,
-};
-
-@protocol UIViewControllerContextTransitioning;
-
-@interface CircularTransition (SWIFT_EXTENSION(WTExternalSDK)) <UIViewControllerAnimatedTransitioning>
-- (NSTimeInterval)transitionDuration:(id <UIViewControllerContextTransitioning> _Nullable)transitionContext SWIFT_WARN_UNUSED_RESULT;
-- (void)animateTransition:(id <UIViewControllerContextTransitioning> _Nonnull)transitionContext;
-@end
-
-enum CircularTransitionV2Mode : NSInteger;
-
-SWIFT_CLASS("_TtC13WTExternalSDK20CircularTransitionV2")
-@interface CircularTransitionV2 : NSObject
-@property (nonatomic) CGPoint startingPoint;
-@property (nonatomic, strong) UIColor * _Nonnull circleColor;
-@property (nonatomic) double duration;
-@property (nonatomic) enum CircularTransitionV2Mode transitionMode;
-- (void)setPresentTransitionWithStartingPoint:(CGPoint)startingPoint circleColor:(UIColor * _Nonnull)circleColor;
-- (void)setDismissTransitionWithStartingPoint:(CGPoint)startingPoint circleColor:(UIColor * _Nonnull)circleColor;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-typedef SWIFT_ENUM(NSInteger, CircularTransitionV2Mode, closed) {
-  CircularTransitionV2ModePresent = 0,
-  CircularTransitionV2ModeDismiss = 1,
-  CircularTransitionV2ModePop = 2,
-};
-
-
-@interface CircularTransitionV2 (SWIFT_EXTENSION(WTExternalSDK)) <UIViewControllerAnimatedTransitioning>
-- (NSTimeInterval)transitionDuration:(id <UIViewControllerContextTransitioning> _Nullable)transitionContext SWIFT_WARN_UNUSED_RESULT;
-- (void)animateTransition:(id <UIViewControllerContextTransitioning> _Nonnull)transitionContext;
-@end
-
-typedef SWIFT_ENUM(NSInteger, ConnectionType, closed) {
-  ConnectionTypeHub = 0,
-  ConnectionTypePersistent = 1,
-};
-
-
-SWIFT_CLASS("_TtC13WTExternalSDK16CustomInteractor")
-@interface CustomInteractor : UIPercentDrivenInteractiveTransition
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
-@end
-
 
 SWIFT_CLASS("_TtC13WTExternalSDK3Hub")
 @interface Hub : NSObject
@@ -571,11 +464,27 @@ SWIFT_CLASS("_TtC13WTExternalSDK3Hub")
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
 
-typedef SWIFT_ENUM(NSInteger, State, closed) {
-  StateConnecting = 0,
-  StateConnected = 1,
-  StateDisconnected = 2,
-};
+
+SWIFT_CLASS("_TtC13WTExternalSDK21SignalrConnectionType")
+@interface SignalrConnectionType : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger Hub;)
++ (NSInteger)Hub SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger Persistent;)
++ (NSInteger)Persistent SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC13WTExternalSDK12SignalrState")
+@interface SignalrState : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger Connecting;)
++ (NSInteger)Connecting SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger Connected;)
++ (NSInteger)Connected SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) NSInteger Disconnected;)
++ (NSInteger)Disconnected SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
 
 @class WKWebView;
 @class WKNavigation;
@@ -586,9 +495,10 @@ typedef SWIFT_ENUM(NSInteger, State, closed) {
 SWIFT_CLASS("_TtC13WTExternalSDK12SwiftSignalR")
 @interface SwiftSignalR : NSObject
 @property (nonatomic) BOOL useWKWebView;
+@property (nonatomic) NSInteger transport;
 /// load Web resource from the provided url, which will be used as Origin HTTP header
 @property (nonatomic, copy) NSString * _Nullable originUrlString;
-@property (nonatomic) enum State state;
+@property (nonatomic) NSInteger state;
 @property (nonatomic, copy) NSString * _Nullable connectionID;
 @property (nonatomic, copy) void (^ _Nullable received)(id _Nullable);
 @property (nonatomic, copy) void (^ _Nullable starting)(void);
@@ -602,7 +512,7 @@ SWIFT_CLASS("_TtC13WTExternalSDK12SwiftSignalR")
 @property (nonatomic, copy) NSString * _Nullable customUserAgent;
 @property (nonatomic) id _Nullable queryString;
 @property (nonatomic, copy) NSDictionary<NSString *, NSString *> * _Nullable headers;
-- (nonnull instancetype)init:(NSString * _Nonnull)baseUrl connectionType:(enum ConnectionType)connectionType OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init:(NSString * _Nonnull)baseUrl connectionType:(NSInteger)connectionType OBJC_DESIGNATED_INITIALIZER;
 - (void)connect:(void (^ _Nullable)(void))callback;
 - (Hub * _Nonnull)createHubProxy:(NSString * _Nonnull)name SWIFT_WARN_UNUSED_RESULT;
 - (void)addHub:(Hub * _Nonnull)hub;
