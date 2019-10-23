@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   #1.
   s.name            = "WTExternalSDK"
   #2.
-  s.version         = "1.4.1"
+  s.version         = "1.4.2"
   #3.  
   s.summary         = "'WTExternalSDK' framework"
   #4.
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   #6.
   s.author          = "Wannatalk"
   #7.
-  s.platform        = :ios, "8.0"
+  s.platform        = :ios, "9.0"
   #8.
   s.source          = { :git => "https://github.com/edzehoo/WannatalkAPI-iOS.git", :tag => s.version }
   #9.
