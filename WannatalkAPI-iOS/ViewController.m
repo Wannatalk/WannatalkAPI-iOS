@@ -62,16 +62,18 @@
 }
 
 - (IBAction)orgProfileClicked:(id)sender {
-    [self.navigationController pushOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES];
-//    [self presentOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES completion:nil];
+//    [self.navigationController pushOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES];
+    [self presentOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES completion:nil];
 }
 
 - (void) loadChatList {
-    [self.navigationController pushChatListVCWithDelegate:self animated:YES];
+//    [self.navigationController pushChatListVCWithDelegate:self animated:YES];
+    [self presentChatListVCWithDelegate:self animated:YES completion:nil];
 }
 
 - (void) loadUsers {
-    [self.navigationController pushUsersVCWithDelegate:self animated:YES];
+//    [self.navigationController pushUsersVCWithDelegate:self animated:YES];
+    [self presentUsersVCWithDelegate:self animated:YES completion:nil];
 }
 
 - (IBAction)logoutClicked:(id)sender {
