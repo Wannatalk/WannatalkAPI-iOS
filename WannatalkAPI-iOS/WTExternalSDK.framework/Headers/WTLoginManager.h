@@ -30,4 +30,10 @@
 // To logout from wannatalk
 - (void) logout;
 
+// Updates user profile name
+- (void) updateUserProfileName:(NSString *) userName onCompletion:(void (^)(BOOL success, NSString *error))completionBlock;
+
+// Updates user profile image
+- (void) uploadUserImageAtPath:(NSString *) imagePath onCompletion:(void (^)(BOOL success, NSString *error))completionBlock;
+
 @end
