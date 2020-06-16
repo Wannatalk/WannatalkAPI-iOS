@@ -59,6 +59,9 @@
 + (void) SetInactiveChatTimeoutInterval:(NSTimeInterval) timeoutInterval;   // default = 1800 seconds (30 minutes).
 
 
+// To set timeinterval for checking the available agent // default 20 seconds
++ (void) SetAgentQueueTimeInterval:(NSTimeInterval) timeInterval;
+
 + (void) ShowDebugLogs:(BOOL) show;
 
 @end

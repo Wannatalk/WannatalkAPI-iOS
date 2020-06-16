@@ -10,7 +10,7 @@ The official Wannatalk Messenger Objective-C (iOS) API
 1. **SDK Integration**
 - CocoaPods
 	- Add below line to your podfile:
-      ```pod 'WTExternalSDK', :git =>'https://github.com/edzehoo/WannatalkAPI-iOS.git', :tag => '1.5.1'```
+      ```pod 'WTExternalSDK', :git =>'https://github.com/edzehoo/WannatalkAPI-iOS.git', :tag => '1.6.0'```
   
 	- Run  `pod install`
 
@@ -49,8 +49,8 @@ The official Wannatalk Messenger Objective-C (iOS) API
     [[WTLoginManager sharedInstance] loginFromVC:self];
 
 ## To link Wannatalk account with user credentials
-    NSDictionary *userInfo = @{ @"key1": @"value1", @"key2": @"value2"};
-    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<your_phone_number>" userInfo:userInfo fromVC:self];
+    NSDictionary *userInfo = @{ @"displayname": @"<User Full Name>"};
+    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<user_identifier>" userInfo:userInfo fromVC:self];
     
 ## To unlink Wannatalk account
     [[WTLoginManager sharedInstance] logout];
@@ -134,3 +134,6 @@ Chat ticket will create automatically when auto tickets is enabled, otherwise de
 Chat session will end if user is inactive for timeout interval duration. If timeout interval is 0, chat session will not end automatically. The default timout interval is 1800 seconds (30 minutes).
 
     [WTSDKManager SetInactiveChatTimeoutInterval:1800];   // default = 1800 seconds (30 minutes).
+    
+### To set interval to check availble agent
+    [WTSDKManager SetAgentQueueTimeInterval:20];   // default = 20 seconds
