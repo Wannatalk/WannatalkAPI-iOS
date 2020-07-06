@@ -30,6 +30,9 @@
 // To logout from wannatalk
 - (void) logout;
 
+// Unregisters device notifications
+- (void) unregisterDeviceNotifications;
+
 // Updates user profile name
 - (void) updateUserProfileName:(NSString *) userName onCompletion:(void (^)(BOOL success, NSString *error))completionBlock;
 
