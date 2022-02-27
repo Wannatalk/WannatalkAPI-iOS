@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   #1.
   s.name            = "WTExternalSDK"
   #2.
-  s.version         = "1.6.1"
+  s.version         = "1.6.2"
   #3.
   s.summary         = "'WTExternalSDK' framework"
   #4.
@@ -20,5 +20,5 @@ Pod::Spec.new do |s|
   #10.
   s.xcconfig = { 'FRAMEWORK_SEARCH_PATHS' => '/Applications/Xcode.app/Contents/Developer/Library/Frameworks' }
   #11.
-  s.vendored_frameworks = 'WannatalkAPI-iOS/WTExternalSDK.framework'
+  s.vendored_frameworks = 'WannatalkAPI-iOS/WTExternalSDK.xcframework'
 end

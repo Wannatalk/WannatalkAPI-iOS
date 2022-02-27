@@ -1,0 +1,60 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
+// swift-module-flags: -target armv7-apple-ios9.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name WTExternalSDK
+import Foundation
+import Swift
+import WebKit
+import _Concurrency
+@_inheritsConvenienceInitializers @objc open class SignalrConnectionType : ObjectiveC.NSObject {
+  @objc public static let Hub: Swift.Int
+  @objc public static let Persistent: Swift.Int
+  @objc override dynamic public init()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc open class SignalrState : ObjectiveC.NSObject {
+  @objc public static let Connecting: Swift.Int
+  @objc public static let Connected: Swift.Int
+  @objc public static let Disconnected: Swift.Int
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc @objcMembers open class SwiftSignalR : ObjectiveC.NSObject, WebKit.WKScriptMessageHandler, WebKit.WKNavigationDelegate {
+  @objc public var transport: Swift.Int
+  @objc public var originUrlString: Swift.String?
+  @objc open var state: Swift.Int
+  @objc open var connectionID: Swift.String?
+  @objc open var received: ((Any?) -> ())?
+  @objc open var starting: (() -> ())?
+  @objc open var connected: (() -> ())?
+  @objc open var disconnected: (() -> ())?
+  @objc open var connectionSlow: (() -> ())?
+  @objc open var connectionFailed: (() -> ())?
+  @objc open var reconnecting: (() -> ())?
+  @objc open var reconnected: (() -> ())?
+  @objc open var error: (([Swift.String : Any]?) -> ())?
+  @objc open var customUserAgent: Swift.String?
+  @objc open var queryString: Any? {
+    @objc get
+    @objc set
+  }
+  @objc open var headers: [Swift.String : Swift.String]? {
+    @objc get
+    @objc set
+  }
+  @objc public init(_ baseUrl: Swift.String, connectionType: Swift.Int = SignalrConnectionType.Hub)
+  @objc public func connect(_ callback: (() -> ())? = nil)
+  @objc deinit
+  @objc open func createHubProxy(_ name: Swift.String) -> WTExternalSDK.Hub
+  @objc open func addHub(_ hub: WTExternalSDK.Hub)
+  @objc open func send(_ data: Any?)
+  @objc open func start()
+  @objc open func stop()
+  @objc open func webView(_ webView: WebKit.WKWebView, didFinish navigation: WebKit.WKNavigation!)
+  @objc open func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
+}
+@objc @_hasMissingDesignatedInitializers @objcMembers open class Hub : ObjectiveC.NSObject {
+  @objc public init(_ name: Swift.String)
+  @objc open func on(_ method: Swift.String, callback: @escaping ([Any]?) -> ())
+  @objc open func invoke(_ method: Swift.String, arguments: [Any]? = nil, callback: ((_ result: Any?, _ error: Any?) -> ())? = nil) throws
+  @objc deinit
+}

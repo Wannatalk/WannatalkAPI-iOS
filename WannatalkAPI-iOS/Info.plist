@@ -20,6 +20,21 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>The app requires access to camera to take photos and videos to send to friends in-chat</string>
+	<key>NSContactsUsageDescription</key>
+	<string>The app requires access to contacts to locate friends already on the Wannatalk network</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>The app requires access to location to display it in map</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>The app requires access to microphone to record live photos and movies</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>The app requires access to photo libary to save in-chat photos and videos</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
@@ -41,20 +56,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>The app requires access to photo libary to save in-chat photos and videos</string>
-	<key>NSContactsUsageDescription</key>
-	<string>The app requires access to contacts to locate friends already on the Wannatalk network</string>
-	<key>NSCameraUsageDescription</key>
-	<string>The app requires access to camera to take photos and videos to send to friends in-chat</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>The app requires access to location to display it in map</string>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>The app requires access to microphone to record live photos and movies</string>
-	<key>NSAppTransportSecurity</key>
-	<dict>
-		<key>NSAllowsArbitraryLoads</key>
-		<true/>
-	</dict>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
 </dict>
 </plist>

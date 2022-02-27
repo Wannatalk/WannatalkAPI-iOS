@@ -9,11 +9,13 @@
 #import "ViewController.h"
 #import <WTExternalSDK/WTExternalSDK.h>
 
-@interface ViewController () <WTLoginManagerDelegate, WTSDKManagerDelegate>
+@interface ViewController () <WTLoginManagerDelegate, WTSDKManagerDelegate, WTChatLoaderDelegate>
 @property (weak, nonatomic) IBOutlet UIButton *btnLogin;
 @property (weak, nonatomic) IBOutlet UIButton *btnOrgProfile;
 @property (weak, nonatomic) IBOutlet UIButton *btnSilentLogin;
 @property (weak, nonatomic) IBOutlet UIButton *btnLogout;
+
+@property WTChatLoaderX *chatLoader;
 
 @end
 
@@ -23,6 +25,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    self.chatLoader = [[WTChatLoaderX alloc] initWithDelegate:self];
     [WTLoginManager sharedInstance].delegate = self;
     [self updateButtons];
 }
@@ -76,6 +79,53 @@
     [self presentUsersVCWithDelegate:self animated:YES completion:nil];
 }
 
+- (IBAction)loadChatPageClicked:(id)sender {
+    
+    [self.chatLoader loadUserChatPageWithIdentifier:@"<identifier>" message:@"<message>"];
+}
+
+
+- (IBAction)loadProductPageClicked:(id)sender {
+    NSDictionary *dctProduct = @{
+      
+        @"Source": @"Product",
+        @"Image": @"https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png",
+        @"Caption": @"caption sample text",
+        
+        @"ProductID": @"product_identifier",
+        @"ProductName": @"sample text",
+        @"ProductPrice": @"MYR 21.00",
+        @"StoreID": @"store_identifier"
+        
+    };
+    
+    
+    [self.chatLoader loadUserChatPageWithIdentifier:@"<identifier>" userInfo:dctProduct];
+    
+    
+}
+
+
+- (IBAction)loadOrderPageClicked:(id)sender {
+//
+    
+    NSDictionary *dctOrder = @{
+      
+        @"Source": @"Order",
+        @"OrderBuyerRef": @"order_buyer_ref_no",
+        @"OrderSellerRef": @"order_seller_ref_no",
+        
+        @"Image": @"http://logok.org/wp-content/uploads/2014/04/Apple-logo-grey.png",
+        @"Caption": @"caption sample text",
+        
+        @"StoreID": @"store_identifier"
+        
+    };
+    
+    
+    [self.chatLoader loadUserChatPageWithIdentifier:@"<identifier>" userInfo:dctOrder];
+    
+}
 - (IBAction)logoutClicked:(id)sender {
     [[WTLoginManager sharedInstance] logout];
 }
@@ -90,6 +140,15 @@
     [self updateButtons];
 }
 
+// If implemented, this method will be invoked when login fails
+- (void) wtAccountDidLoginFailWithError:(NSString *) error {
+    NSLog(@"wtAccountDidLoginFailWithError: %@", error);
+}
+// If implemented, this method will be invoked when logout fails
+- (void) wtAccountDidLogOutFailedWithError:(NSString *) error {
+    NSLog(@"wtAccountDidLogOutFailedWithError: %@", error);
+}
+
 #pragma mark -
 - (void) wtsdkOrgProfileDidLoadFailWithError:(NSString *)error {
     
@@ -97,6 +156,18 @@
 
 - (void) wtsdkOrgProfileDidLoadSuccesfully {
     
+}
+
+#pragma mark -
+
+- (void) WTChatLoaderDelegateDidShowSpinner:(BOOL) show {
+    
+}
+- (void) WTChatLoaderDelegateDidLoadTopic:(nullable NSString *) error {
+    
+}
+- (UIViewController *) getParentVC {
+    return self;
 }
 
 @end

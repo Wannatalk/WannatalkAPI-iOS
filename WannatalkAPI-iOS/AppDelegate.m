@@ -29,8 +29,43 @@
     [WTSDKManager ShowExitButton:YES];
     [WTSDKManager EnableChatProfile:NO];
     
+//    [self setupAppearance];
     return YES;
 }
+
+
+
+- (void) setupAppearance {
+    {
+        UIColor *tintColor = [UIColor whiteColor];
+
+//        self.window.backgroundColor = [UIColor whiteColor];
+        self.window.backgroundColor = [UIColor whiteColor];
+        [[UIApplication sharedApplication] delegate].window.tintColor = tintColor;
+
+        [[UINavigationBar appearance] setTintColor:tintColor];
+        
+        UIColor *themeColor = [UIColor systemBlueColor];
+        [[UINavigationBar appearance] setTranslucent:NO];
+        [[UINavigationBar appearance] setBackgroundImage:[UIImage new] forBarMetrics:UIBarMetricsDefault];
+        [[UINavigationBar appearance] setShadowImage:[UIImage new]];
+        
+        [[UINavigationBar appearance] setBarTintColor:themeColor];
+        
+        NSDictionary *attributes = @{
+                                        NSForegroundColorAttributeName: [UIColor whiteColor]
+                                     };
+
+        [[UINavigationBar appearance] setTitleTextAttributes:attributes];
+        
+
+        [[UITabBar appearance] setTintColor:tintColor];
+        [[UIToolbar appearance] setTintColor:tintColor];
+
+    }
+
+}
+
 
 
 - (void)applicationWillResignActive:(UIApplication *)application {

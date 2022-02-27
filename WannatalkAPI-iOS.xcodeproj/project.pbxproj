@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -14,19 +14,19 @@
 		C5792A5920555CF000EFA4D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5792A5720555CF000EFA4D1 /* LaunchScreen.storyboard */; };
 		C5792A5C20555CF000EFA4D1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C5792A5B20555CF000EFA4D1 /* main.m */; };
 		C5998EF92055965400DBC2B8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C5998EF82055965400DBC2B8 /* README.md */; };
-		C5998F022055A95400DBC2B8 /* WTExternalSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C5998F002055A95300DBC2B8 /* WTExternalSDK.framework */; };
 		C5998F032055A95400DBC2B8 /* WTService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C5998F012055A95300DBC2B8 /* WTService-Info.plist */; };
-		C5998F052055A95E00DBC2B8 /* WTExternalSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C5998F002055A95300DBC2B8 /* WTExternalSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C59B38E927BDFAE700CA113F /* WTExternalSDK.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C59B38E727BDFADA00CA113F /* WTExternalSDK.xcframework */; };
+		C59B38EA27BDFAE700CA113F /* WTExternalSDK.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C59B38E727BDFADA00CA113F /* WTExternalSDK.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		C5EE7838205560DD002216A1 /* Embed Frameworks */ = {
+		C59B38E627BDF79D00CA113F /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				C5998F052055A95E00DBC2B8 /* WTExternalSDK.framework in Embed Frameworks */,
+				C59B38EA27BDFAE700CA113F /* WTExternalSDK.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -45,8 +45,8 @@
 		C5792A5A20555CF000EFA4D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C5792A5B20555CF000EFA4D1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C5998EF82055965400DBC2B8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
-		C5998F002055A95300DBC2B8 /* WTExternalSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WTExternalSDK.framework; sourceTree = "<group>"; };
 		C5998F012055A95300DBC2B8 /* WTService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "WTService-Info.plist"; sourceTree = "<group>"; };
+		C59B38E727BDFADA00CA113F /* WTExternalSDK.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = WTExternalSDK.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5998F022055A95400DBC2B8 /* WTExternalSDK.framework in Frameworks */,
+				C59B38E927BDFAE700CA113F /* WTExternalSDK.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -66,6 +66,7 @@
 			children = (
 				C5792A4B20555CF000EFA4D1 /* WannatalkAPI-iOS */,
 				C5792A4A20555CF000EFA4D1 /* Products */,
+				C59B38A727BD225700CA113F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -80,8 +81,8 @@
 		C5792A4B20555CF000EFA4D1 /* WannatalkAPI-iOS */ = {
 			isa = PBXGroup;
 			children = (
-				C5998F002055A95300DBC2B8 /* WTExternalSDK.framework */,
 				C5998F012055A95300DBC2B8 /* WTService-Info.plist */,
+				C59B38E727BDFADA00CA113F /* WTExternalSDK.xcframework */,
 				C5792A4C20555CF000EFA4D1 /* AppDelegate.h */,
 				C5792A4D20555CF000EFA4D1 /* AppDelegate.m */,
 				C5792A4F20555CF000EFA4D1 /* ViewController.h */,
@@ -96,6 +97,13 @@
 			path = "WannatalkAPI-iOS";
 			sourceTree = "<group>";
 		};
+		C59B38A727BD225700CA113F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -106,8 +114,8 @@
 				C5792A4520555CF000EFA4D1 /* Sources */,
 				C5792A4620555CF000EFA4D1 /* Frameworks */,
 				C5792A4720555CF000EFA4D1 /* Resources */,
-				C5EE7838205560DD002216A1 /* Embed Frameworks */,
 				C5B74016221F15F2008CFE1F /* ShellScript */,
+				C59B38E627BDF79D00CA113F /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -124,7 +132,7 @@
 		C5792A4120555CF000EFA4D1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0920;
+				LastUpgradeCheck = 1230;
 				ORGANIZATIONNAME = Wannatalk;
 				TargetAttributes = {
 					C5792A4820555CF000EFA4D1 = {
@@ -233,6 +241,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -240,8 +249,10 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -267,7 +278,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -288,6 +299,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -295,8 +307,10 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -316,7 +330,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -326,18 +340,21 @@
 		C5792A6020555CF000EFA4D1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 3C6432SN7H;
+				DEVELOPMENT_TEAM = LM9TAHE72W;
 				ENABLE_BITCODE = NO;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/WannatalkAPI-iOS",
 				);
 				INFOPLIST_FILE = "WannatalkAPI-iOS/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.wannatalk.WannatalkAPI-iOS";
 				PRODUCT_NAME = "Wannatalk Demo";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -347,18 +364,21 @@
 		C5792A6120555CF000EFA4D1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 3C6432SN7H;
+				DEVELOPMENT_TEAM = LM9TAHE72W;
 				ENABLE_BITCODE = NO;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/WannatalkAPI-iOS",
 				);
 				INFOPLIST_FILE = "WannatalkAPI-iOS/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.wannatalk.WannatalkAPI-iOS";
 				PRODUCT_NAME = "Wannatalk Demo";
 				TARGETED_DEVICE_FAMILY = "1,2";
