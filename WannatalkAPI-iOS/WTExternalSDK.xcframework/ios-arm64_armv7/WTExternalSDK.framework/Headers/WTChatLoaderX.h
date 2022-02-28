@@ -17,4 +17,12 @@
 
 - (void) loadUserChatPageWithIdentifier:(NSString *) identifier userInfo:(NSDictionary *) dctObject;
 
+- (void) sendMessage:(NSString *) message orgID:(NSInteger) orgID channelID:(NSInteger) channelID onCompletion:(void(^)(BOOL success, NSString *errorMessage))completionBlock;
+//
+//+ (void) sendMessageToOrganization:(NSInteger) organizationID message:(NSString *) message;
+//
+
+
++ (void) LoadNewOrgTopic:(struct WTGroup) group message:(NSString *) message fromNavVC:(UIViewController *) nvc;
+
 @end

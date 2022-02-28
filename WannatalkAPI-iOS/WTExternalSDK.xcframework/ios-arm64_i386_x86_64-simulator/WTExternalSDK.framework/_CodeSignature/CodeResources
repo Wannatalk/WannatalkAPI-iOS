@@ -16,13 +16,17 @@
 		<data>
 		5Pndp0WVQmlLE7XGr3fQczvYJC0=
 		</data>
+		<key>Headers/WTBotMessageHandler.h</key>
+		<data>
+		QTnh/zrvWMr0XDc+MtHanZtpcRE=
+		</data>
 		<key>Headers/WTChatLoaderDelegate.h</key>
 		<data>
 		T6tnZkPyeZhDMIPKKMqmf6j5AAs=
 		</data>
 		<key>Headers/WTChatLoaderX.h</key>
 		<data>
-		4zLpTDEINXFmPmXc8uxbQ2WJYho=
+		g6GAn0L00QjiUbkMrTPmdVdHNfQ=
 		</data>
 		<key>Headers/WTExternalSDK-Swift.h</key>
 		<data>
@@ -30,7 +34,7 @@
 		</data>
 		<key>Headers/WTExternalSDK.h</key>
 		<data>
-		TVYzRvmEClEKraP3HlmUqZ4zsFo=
+		6t2PKTiSf+SUUH36t/sOT8xpfsQ=
 		</data>
 		<key>Headers/WTLoginManager.h</key>
 		<data>
@@ -2058,6 +2062,17 @@
 			d4RBuK2eB3F5rgYgJbyfch1JlWQsaXwDOMpgIjKD3sI=
 			</data>
 		</dict>
+		<key>Headers/WTBotMessageHandler.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QTnh/zrvWMr0XDc+MtHanZtpcRE=
+			</data>
+			<key>hash2</key>
+			<data>
+			wio7m+UotrWg3Ll5VVmhJeesDEa+73A/AfQU3yAz27U=
+			</data>
+		</dict>
 		<key>Headers/WTChatLoaderDelegate.h</key>
 		<dict>
 			<key>hash</key>
@@ -2073,11 +2088,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4zLpTDEINXFmPmXc8uxbQ2WJYho=
+			g6GAn0L00QjiUbkMrTPmdVdHNfQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			vNcp4Vqo0wp/+dTAax4XpwcLoCyQ1niasdp6Chs7HVY=
+			vTezYlce2z8TeUqanhxBvQtAmZslM8eAaDKPzUXT0ps=
 			</data>
 		</dict>
 		<key>Headers/WTExternalSDK-Swift.h</key>
@@ -2095,11 +2110,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TVYzRvmEClEKraP3HlmUqZ4zsFo=
+			6t2PKTiSf+SUUH36t/sOT8xpfsQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			LM7Zhf4FM8lV92Sko6AEL1rtQIMb9wpRQRZWgsMG7Mg=
+			7kky5bDR1Tp2ITrhT+GROdMbraq9b3ziiaIXy++iN+s=
 			</data>
 		</dict>
 		<key>Headers/WTLoginManager.h</key>

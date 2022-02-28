@@ -20,6 +20,7 @@ FOUNDATION_EXPORT const unsigned char WTExternalSDKVersionString[];
 #import <WTExternalSDK/WTSDKManager.h>
 #import <WTExternalSDK/WTSDKApplicationDelegate.h>
 #import <WTExternalSDK/WTChatLoaderX.h>
+#import <WTExternalSDK/WTBotMessageHandler.h>
 #import <WTExternalSDK/TestMG.h>
 
 
