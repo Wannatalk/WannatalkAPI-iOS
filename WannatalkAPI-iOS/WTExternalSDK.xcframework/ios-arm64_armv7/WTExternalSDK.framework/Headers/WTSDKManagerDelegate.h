@@ -36,7 +36,7 @@
 - (void) wtsdkUsersDidLoadFailWithError:(NSString *) error;
 
 
-- (void) wtsdkLoadProductPage:(NSString *) userIdentifier productID:(NSString *) productID;
+- (void) wtsdkLoadProductPage:(NSString *) userIdentifier storeID:(NSString *) storeID productID:(NSString *) productID;
 
 - (void) wtsdkLoadOrderPage:(NSString *) userIdentifier storeID:(NSString *) storeID buyerRefOrderID:(NSString *) buyerRefOrderID sellerRefOrderID:(NSString *) sellerRefOrderID;
 
