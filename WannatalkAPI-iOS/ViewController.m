@@ -10,10 +10,16 @@
 #import <WTExternalSDK/WTExternalSDK.h>
 
 @interface ViewController () <WTLoginManagerDelegate, WTSDKManagerDelegate, WTChatLoaderDelegate>
+
+@property (weak, nonatomic) IBOutlet UIStackView *svLoginButtons;
+@property (weak, nonatomic) IBOutlet UIStackView *svOptions;
+
 @property (weak, nonatomic) IBOutlet UIButton *btnLogin;
 @property (weak, nonatomic) IBOutlet UIButton *btnOrgProfile;
 @property (weak, nonatomic) IBOutlet UIButton *btnSilentLogin;
 @property (weak, nonatomic) IBOutlet UIButton *btnLogout;
+@property (weak, nonatomic) IBOutlet UIButton *btnChatWithSeller;
+@property (weak, nonatomic) IBOutlet UIButton *btnEnquireProduct;
 
 @property WTChatLoaderX *chatLoader;
 
@@ -27,6 +33,7 @@
     
     self.chatLoader = [[WTChatLoaderX alloc] initWithDelegate:self];
     [WTLoginManager sharedInstance].delegate = self;
+    WTSDKManager.sharedInstance.delegate = self;
     [self updateButtons];
 }
 
@@ -45,8 +52,14 @@
     BOOL userLoggedIn = [WTLoginManager sharedInstance].isUserLoggedIn;
     self.btnLogin.hidden = userLoggedIn;
     self.btnSilentLogin.hidden = userLoggedIn;
+    
     self.btnOrgProfile.hidden = !userLoggedIn;
     self.btnLogout.hidden = !userLoggedIn;
+    self.btnEnquireProduct.hidden = !userLoggedIn;
+    self.btnChatWithSeller.hidden = !userLoggedIn;
+    
+    self.svLoginButtons.hidden = userLoggedIn;
+    self.svOptions.hidden = !userLoggedIn;
 }
 
 #pragma mark -
@@ -81,51 +94,37 @@
 
 - (IBAction)loadChatPageClicked:(id)sender {
     
-    [self.chatLoader loadUserChatPageWithIdentifier:@"<identifier>" message:@"<message>"];
+    NSString *sellerUserIdentifier = @"<+seller_phone_number_with_calling_code>"; // Seller phone number
+    [self.chatLoader loadUserChatPageWithIdentifier:sellerUserIdentifier message:@"<message>"];
 }
 
 
-- (IBAction)loadProductPageClicked:(id)sender {
-    NSDictionary *dctProduct = @{
-      
-        @"Source": @"Product",
-        @"Image": @"https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png",
-        @"Caption": @"caption sample text",
-        
-        @"ProductID": @"product_identifier",
-        @"ProductName": @"sample text",
-        @"ProductPrice": @"MYR 21.00",
-        @"StoreID": @"store_identifier"
-        
-    };
+- (IBAction)enquireProductBtnClicked:(id)sender {
+    NSString *sellerUserIdentifier = @"<+seller_phone_number_with_calling_code>"; // Seller phone number
     
+    ChatInputData *chatInputData = [ChatInputData new];
+    chatInputData.source = @"Product";
+    chatInputData.imagePath = @"https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png";
+    chatInputData.caption = @"caption sample text";
+    chatInputData.productID = @"12312";
+    chatInputData.productName = @"Sample text";
+    chatInputData.productPrice = @"MYR 21.00";
+    chatInputData.storeID = @"12312421421";
     
-    [self.chatLoader loadUserChatPageWithIdentifier:@"<identifier>" userInfo:dctProduct];
-    
+    [self.chatLoader loadUserChatPageWithIdentifier:sellerUserIdentifier chatInputData:chatInputData];
     
 }
 
 
-- (IBAction)loadOrderPageClicked:(id)sender {
-//
+- (IBAction)chatWithSellerBtnClicked:(id)sender {
     
-    NSDictionary *dctOrder = @{
-      
-        @"Source": @"Order",
-        @"OrderBuyerRef": @"order_buyer_ref_no",
-        @"OrderSellerRef": @"order_seller_ref_no",
-        
-        @"Image": @"http://logok.org/wp-content/uploads/2014/04/Apple-logo-grey.png",
-        @"Caption": @"caption sample text",
-        
-        @"StoreID": @"store_identifier"
-        
-    };
-    
-    
-    [self.chatLoader loadUserChatPageWithIdentifier:@"<identifier>" userInfo:dctOrder];
+    [self.chatLoader sendMessage:@"Hi" orgID:360 channelID:399 onCompletion:^(BOOL success, NSString *errorMessage) {
+            
+    }];
     
 }
+
+
 - (IBAction)logoutClicked:(id)sender {
     [[WTLoginManager sharedInstance] logout];
 }
@@ -157,6 +156,24 @@
 - (void) wtsdkOrgProfileDidLoadSuccesfully {
     
 }
+
+
+- (void) wtsdkLoadProductPage:(NSString *) userIdentifier productID:(NSString *) productID {
+    NSLog(@"wtsdkLoadProductPage");
+}
+
+- (void) wtsdkLoadOrderPage:(NSString *) userIdentifier storeID:(NSString *) storeID buyerRefOrderID:(NSString *) buyerRefOrderID sellerRefOrderID:(NSString *) sellerRefOrderID {
+    NSLog(@"wtsdkLoadOrderPage");
+}
+
+- (void) wtsdkLoadStorePage:(NSString *) userIdentifier storeID:(NSString *) storeID {
+    NSLog(@"wtsdkLoadStorePage");
+}
+
+- (UINavigationController *) prepareViewHierachiesToLoadChatRoom:(BOOL) aiTopic {
+    return self.navigationController;
+}
+
 
 #pragma mark -
 

@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/WTChatLoaderX.h</key>
 		<data>
-		g6GAn0L00QjiUbkMrTPmdVdHNfQ=
+		7Sc/TYCbJH3xxfpblNkuw5lbpdY=
 		</data>
 		<key>Headers/WTExternalSDK-Swift.h</key>
 		<data>
@@ -71,7 +71,7 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		tca1RMOSOP29nr/p1aJeCiC3VRE=
+		jI3sq6JhZTddBhP0WQWaOHIhoo0=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -83,7 +83,7 @@
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cF+YpPQBYyaEbfEENPfeMPOlL20=
+		aLjcmMPTPhLIOpQ19tT4NYH8lIQ=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -95,7 +95,7 @@
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		cF+YpPQBYyaEbfEENPfeMPOlL20=
+		aLjcmMPTPhLIOpQ19tT4NYH8lIQ=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -107,7 +107,7 @@
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		eNEJsIJScZ5oypSyDxtcJ/gsohI=
+		71vY8PIl/krLrUI6djpAkLtfY+Q=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -119,7 +119,7 @@
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		eNEJsIJScZ5oypSyDxtcJ/gsohI=
+		71vY8PIl/krLrUI6djpAkLtfY+Q=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -131,7 +131,7 @@
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		caypAvS4Fq87w7H9JH98TwBBfOE=
+		LeJNCrVDqkezr1cmFnFNWq/Djys=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -143,7 +143,7 @@
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		caypAvS4Fq87w7H9JH98TwBBfOE=
+		LeJNCrVDqkezr1cmFnFNWq/Djys=
 		</data>
 		<key>PrivateHeaders/WTChatUIController.h</key>
 		<data>
@@ -2088,11 +2088,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g6GAn0L00QjiUbkMrTPmdVdHNfQ=
+			7Sc/TYCbJH3xxfpblNkuw5lbpdY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vTezYlce2z8TeUqanhxBvQtAmZslM8eAaDKPzUXT0ps=
+			0argzACyqZgYDsiu9QtBg9iPmqQ3SJ21KEKqSg/tnJ0=
 			</data>
 		</dict>
 		<key>Headers/WTExternalSDK-Swift.h</key>
@@ -2222,11 +2222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cF+YpPQBYyaEbfEENPfeMPOlL20=
+			aLjcmMPTPhLIOpQ19tT4NYH8lIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			SJ8hDc1Q5/fNe6mT5P7TAP3r1DnJuJfFD7hv6C1TuZE=
+			e3jnGJMwcwKi0LFDS0r9vJa7gRKVhQLM7RseymHSSk0=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64.swiftdoc</key>
@@ -2255,11 +2255,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cF+YpPQBYyaEbfEENPfeMPOlL20=
+			aLjcmMPTPhLIOpQ19tT4NYH8lIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			SJ8hDc1Q5/fNe6mT5P7TAP3r1DnJuJfFD7hv6C1TuZE=
+			e3jnGJMwcwKi0LFDS0r9vJa7gRKVhQLM7RseymHSSk0=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -2288,11 +2288,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eNEJsIJScZ5oypSyDxtcJ/gsohI=
+			71vY8PIl/krLrUI6djpAkLtfY+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			UzoeXHPNIUCx/Z7Yne5JQzIT8t3/EpWJJse1pyP9iNc=
+			gEw2O15bg9/5LNJXpOUJ7syD4UQCKV5VnY9upqXS1hU=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/i386.swiftdoc</key>
@@ -2321,11 +2321,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eNEJsIJScZ5oypSyDxtcJ/gsohI=
+			71vY8PIl/krLrUI6djpAkLtfY+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			UzoeXHPNIUCx/Z7Yne5JQzIT8t3/EpWJJse1pyP9iNc=
+			gEw2O15bg9/5LNJXpOUJ7syD4UQCKV5VnY9upqXS1hU=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -2354,11 +2354,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			caypAvS4Fq87w7H9JH98TwBBfOE=
+			LeJNCrVDqkezr1cmFnFNWq/Djys=
 			</data>
 			<key>hash2</key>
 			<data>
-			lHVt7I064opbifkuIJqr+L/h5DKGkZAsBP2M8m/4R4Y=
+			LAfz8Y7uwdvUdKQySKoAlO+3in+45kC1OFYudJA0FyQ=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -2387,11 +2387,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			caypAvS4Fq87w7H9JH98TwBBfOE=
+			LeJNCrVDqkezr1cmFnFNWq/Djys=
 			</data>
 			<key>hash2</key>
 			<data>
-			lHVt7I064opbifkuIJqr+L/h5DKGkZAsBP2M8m/4R4Y=
+			LAfz8Y7uwdvUdKQySKoAlO+3in+45kC1OFYudJA0FyQ=
 			</data>
 		</dict>
 		<key>PrivateHeaders/WTChatUIController.h</key>
