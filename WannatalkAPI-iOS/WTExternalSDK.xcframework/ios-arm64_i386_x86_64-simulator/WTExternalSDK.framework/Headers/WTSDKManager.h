@@ -69,7 +69,7 @@
 //
 //- (void) loadUserChatPageWithIdentifier:(NSString *) identifier message: (NSString *) message;
 
-+ (void) ShowHomeButton:(NSString *) value;
++ (void) ShowHomeButton:(BOOL) value;
 + (void) SetChatHeaderColor:(NSString *) value;
 + (void) SetChatTitleColor:(NSString *) value;
 + (void) SetChatBGColor:(NSString *) value;
