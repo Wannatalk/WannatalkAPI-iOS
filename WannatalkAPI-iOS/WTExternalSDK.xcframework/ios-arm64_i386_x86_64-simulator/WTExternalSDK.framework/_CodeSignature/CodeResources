@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/WTExternalSDK-Swift.h</key>
 		<data>
-		x9Y9xciHtwaUS50BN9bzBKiPP/I=
+		CVuSJv5LtyxJqODD2P3ey/6nntY=
 		</data>
 		<key>Headers/WTExternalSDK.h</key>
 		<data>
@@ -71,79 +71,43 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		JOls/bh/CbuLbT2ZwlkCxq8Xz5I=
+		UYnI89gab05tUHl7ZKfkYJ2s+sg=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		CrDQnRZd8LcS2iRi9ydhk59ZBwY=
+		I6XNQ6XDKaVg6MuBLA+YVtZxFRY=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		baNgg1wRmsj7juGrqOVQO3gNUgg=
+		iAue9VPc/VJShHdmY/hdudBZfsw=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aLjcmMPTPhLIOpQ19tT4NYH8lIQ=
-		</data>
-		<key>Modules/WTExternalSDK.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		CrDQnRZd8LcS2iRi9ydhk59ZBwY=
-		</data>
-		<key>Modules/WTExternalSDK.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		baNgg1wRmsj7juGrqOVQO3gNUgg=
-		</data>
-		<key>Modules/WTExternalSDK.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		aLjcmMPTPhLIOpQ19tT4NYH8lIQ=
+		2cg/QH0gij4m9SDBwNc4GaTvEbU=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		DCx9ALo3c00SS1H4MBM4aGEJMfY=
+		bsLdL+Inh000nvhOPIjjyw8U/gc=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IFl4qQwh2oZu8QwduvKaJfDesug=
+		RijEIXQpndSXTyrOLD/V+IZxby0=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		71vY8PIl/krLrUI6djpAkLtfY+Q=
-		</data>
-		<key>Modules/WTExternalSDK.swiftmodule/i386.swiftdoc</key>
-		<data>
-		DCx9ALo3c00SS1H4MBM4aGEJMfY=
-		</data>
-		<key>Modules/WTExternalSDK.swiftmodule/i386.swiftinterface</key>
-		<data>
-		IFl4qQwh2oZu8QwduvKaJfDesug=
-		</data>
-		<key>Modules/WTExternalSDK.swiftmodule/i386.swiftmodule</key>
-		<data>
-		71vY8PIl/krLrUI6djpAkLtfY+Q=
+		VaLraSdVZ46NckwxFyxNF4DWnEk=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vuoEHYQIYVnTyIXXjigTmtUfCqM=
+		xG5gkaqEagkDSxNF9A9Sn+8q4ls=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		BhsOG3Sspe3sHwZ9StfgRcxFHYE=
+		g3WKgnu49jw1Zrd2xcv9mOt9dMs=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LeJNCrVDqkezr1cmFnFNWq/Djys=
-		</data>
-		<key>Modules/WTExternalSDK.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		vuoEHYQIYVnTyIXXjigTmtUfCqM=
-		</data>
-		<key>Modules/WTExternalSDK.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		BhsOG3Sspe3sHwZ9StfgRcxFHYE=
-		</data>
-		<key>Modules/WTExternalSDK.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		LeJNCrVDqkezr1cmFnFNWq/Djys=
+		j/ENC+NonPk1L+NCVNwloAIvBzg=
 		</data>
 		<key>PrivateHeaders/WTChatUIController.h</key>
 		<data>
@@ -215,11 +179,11 @@
 		</data>
 		<key>Wannatalk.bundle/Assets.car</key>
 		<data>
-		d6peU/v1C89csy9tqL2djp3W2HM=
+		bPsC3R4+XoTmMrYiTDCDf1kbB8s=
 		</data>
 		<key>Wannatalk.bundle/Info.plist</key>
 		<data>
-		4MQ1UjRSqLK13bj/oEp9NJoViBg=
+		uqjGD7A8D3LiIaZr85R3kKXacBE=
 		</data>
 		<key>Wannatalk.bundle/Organization.storyboardc/72p-Vl-9Tj-view-xzC-FZ-Pgc.nib</key>
 		<data>
@@ -231,7 +195,7 @@
 		</data>
 		<key>Wannatalk.bundle/Organization.storyboardc/NVf-jq-6km-view-273-mz-3Hw.nib</key>
 		<data>
-		EdrlqQL97EeyWN8k8ZmQ/yN3aRQ=
+		Vb9itLM2sUU1dRr8m326CF5qP3g=
 		</data>
 		<key>Wannatalk.bundle/Organization.storyboardc/NoD-EE-yUj-view-17L-vo-W2w.nib</key>
 		<data>
@@ -287,23 +251,23 @@
 		</data>
 		<key>Wannatalk.bundle/Organization.storyboardc/YUF-nV-ZEv-view-0Zz-Or-ppP.nib</key>
 		<data>
-		AGyK1Mx7VpFwggc86SC9lrxTOYg=
+		fWlsD5W7CqwFlAKsEat569W6dbY=
 		</data>
 		<key>Wannatalk.bundle/Organization.storyboardc/YUi-JQ-6q0-view-L40-IU-adM.nib</key>
 		<data>
-		OB3tum3LMJYOP8EKBg2WGF/Ysi0=
+		GTNB9nuJ4jIK7g9y69DofQxVwQE=
 		</data>
 		<key>Wannatalk.bundle/Organization.storyboardc/fdX-gt-fVx-view-wk9-72-BwD.nib</key>
 		<data>
-		HH1gGHfu5Ys9PPFbh0zTuy/zj7g=
+		cGHRQYpnraIUhLdqk7uKSj/7ShQ=
 		</data>
 		<key>Wannatalk.bundle/Organization.storyboardc/h1T-xn-Do0-view-XAE-vW-57f.nib</key>
 		<data>
-		GNIQjL+d39JU8Jvq9vdLsgktgnU=
+		qTZICzKkM42v+3ToeR99ClWCJCI=
 		</data>
 		<key>Wannatalk.bundle/Organization.storyboardc/jcO-vJ-Pcp-view-lL7-ws-9cP.nib</key>
 		<data>
-		9/bMCCHWkij9IOLSf0A3UVneYIo=
+		pxAtTCcMl1w0GRPvtrXgXRzIuYY=
 		</data>
 		<key>Wannatalk.bundle/Organization.storyboardc/lQ2-yg-H8x-view-3C5-ii-1zF.nib</key>
 		<data>
@@ -391,35 +355,35 @@
 		</data>
 		<key>Wannatalk.bundle/Setup.storyboardc/p9u-2E-ifu-view-VoK-i7-p2U.nib/objects-11.0+.nib</key>
 		<data>
-		0Ed7TKInR22n4ITr37yAh1r8mbI=
+		CqAuRQceFao5Zjigu996yF/Nofs=
 		</data>
 		<key>Wannatalk.bundle/Setup.storyboardc/p9u-2E-ifu-view-VoK-i7-p2U.nib/runtime.nib</key>
 		<data>
-		0Ed7TKInR22n4ITr37yAh1r8mbI=
+		CqAuRQceFao5Zjigu996yF/Nofs=
 		</data>
 		<key>Wannatalk.bundle/Setup.storyboardc/sJK-ha-b40-view-hdb-UD-HWS.nib/objects-11.0+.nib</key>
 		<data>
-		twtVFTtb6VvjOmE6hIgxN8GSTcw=
+		JAi13cpB0rBSqjXAxY2IO7PJpBM=
 		</data>
 		<key>Wannatalk.bundle/Setup.storyboardc/sJK-ha-b40-view-hdb-UD-HWS.nib/runtime.nib</key>
 		<data>
-		twtVFTtb6VvjOmE6hIgxN8GSTcw=
+		JAi13cpB0rBSqjXAxY2IO7PJpBM=
 		</data>
 		<key>Wannatalk.bundle/Setup.storyboardc/tit-eJ-cr4-view-20R-gM-8aU.nib/objects-11.0+.nib</key>
 		<data>
-		aUtC7Uduk5vryhQXe2H3p4CjXq0=
+		o7JHFpFDEA4AwPQXI6wXTo/hpKQ=
 		</data>
 		<key>Wannatalk.bundle/Setup.storyboardc/tit-eJ-cr4-view-20R-gM-8aU.nib/runtime.nib</key>
 		<data>
-		aUtC7Uduk5vryhQXe2H3p4CjXq0=
+		o7JHFpFDEA4AwPQXI6wXTo/hpKQ=
 		</data>
 		<key>Wannatalk.bundle/Setup.storyboardc/uK4-1m-Meq-view-59R-p6-bJ0.nib/objects-11.0+.nib</key>
 		<data>
-		ZQhwsQSDNWUarFVAzzXw10NZEvk=
+		8ab4hlnSjtx8eDxVJn7veESXu0c=
 		</data>
 		<key>Wannatalk.bundle/Setup.storyboardc/uK4-1m-Meq-view-59R-p6-bJ0.nib/runtime.nib</key>
 		<data>
-		gnWahABmrw/PUU8+R3PBfJMkIwI=
+		EVB2fRIX0A0JZdXyQNtouRNr99g=
 		</data>
 		<key>Wannatalk.bundle/Setup.storyboardc/vEN-yk-c2Z-view-Dww-e8-df2.nib/objects-11.0+.nib</key>
 		<data>
@@ -439,11 +403,11 @@
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/CVz-2M-xKW-view-rcb-7q-quy.nib/objects-11.0+.nib</key>
 		<data>
-		2rjvmHcpZjbYdvoOpJZNK8Gia1c=
+		j9whOSZ9OQG7UQeH2kZo8x+FHdA=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/CVz-2M-xKW-view-rcb-7q-quy.nib/runtime.nib</key>
 		<data>
-		2rjvmHcpZjbYdvoOpJZNK8Gia1c=
+		j9whOSZ9OQG7UQeH2kZo8x+FHdA=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/CsY-Lm-COj-view-zfz-xx-QoS.nib/objects-11.0+.nib</key>
 		<data>
@@ -455,19 +419,19 @@
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/E2S-6e-rqi-view-MuC-7D-Vsm.nib/objects-11.0+.nib</key>
 		<data>
-		TVAvZHVAIG3mBQ1087khrhz7hFo=
+		fuD5cErCWYFF2f6ixBBgd2K9No0=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/E2S-6e-rqi-view-MuC-7D-Vsm.nib/runtime.nib</key>
 		<data>
-		TVAvZHVAIG3mBQ1087khrhz7hFo=
+		fuD5cErCWYFF2f6ixBBgd2K9No0=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/HSb-WU-R0c-view-b2d-2j-324.nib/objects-11.0+.nib</key>
 		<data>
-		ZrkUz3lu5K15HoqvQdAwz5EK1QU=
+		gOxv8kEKuNntklLi4SCy52eCl3o=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/HSb-WU-R0c-view-b2d-2j-324.nib/runtime.nib</key>
 		<data>
-		ZrkUz3lu5K15HoqvQdAwz5EK1QU=
+		gOxv8kEKuNntklLi4SCy52eCl3o=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/IlM-18-2cZ-view-MS8-ce-bL5.nib/objects-11.0+.nib</key>
 		<data>
@@ -531,11 +495,11 @@
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/SdS-8N-nS9-view-dr5-7H-dXM.nib/objects-11.0+.nib</key>
 		<data>
-		/gaLmje36PajLyyZrZjlgD2E5vs=
+		Ll0VEvesrN+B+DhFybatTTx4rBM=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/SdS-8N-nS9-view-dr5-7H-dXM.nib/runtime.nib</key>
 		<data>
-		/gaLmje36PajLyyZrZjlgD2E5vs=
+		Ll0VEvesrN+B+DhFybatTTx4rBM=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTActionSheetVC.nib/objects-11.0+.nib</key>
 		<data>
@@ -563,11 +527,11 @@
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTBotsVC.nib/objects-11.0+.nib</key>
 		<data>
-		Bfjy4Gbk1B5tN3xHZ3zziSCq6Gk=
+		+IdY1P5+CE6niiAXWB6wK2nQ4eE=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTBotsVC.nib/runtime.nib</key>
 		<data>
-		Bfjy4Gbk1B5tN3xHZ3zziSCq6Gk=
+		+IdY1P5+CE6niiAXWB6wK2nQ4eE=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTCameraVC.nib/objects-11.0+.nib</key>
 		<data>
@@ -595,11 +559,11 @@
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTForwardMessageVC.nib/objects-11.0+.nib</key>
 		<data>
-		epfZ8t0VXEy2bRYIAtPUPf2+s+A=
+		drIdQUi6VD3uiDxOwurHk6sWa50=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTForwardMessageVC.nib/runtime.nib</key>
 		<data>
-		epfZ8t0VXEy2bRYIAtPUPf2+s+A=
+		drIdQUi6VD3uiDxOwurHk6sWa50=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTGuideVC.nib/objects-11.0+.nib</key>
 		<data>
@@ -723,11 +687,11 @@
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTTopicsVC3.nib/objects-11.0+.nib</key>
 		<data>
-		AZz9LmYTsqc1j0flF+CBRAt69PY=
+		Q6PKe+VJGULX1D2mcGriEDdUtu4=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTTopicsVC3.nib/runtime.nib</key>
 		<data>
-		AZz9LmYTsqc1j0flF+CBRAt69PY=
+		Q6PKe+VJGULX1D2mcGriEDdUtu4=
 		</data>
 		<key>Wannatalk.bundle/Topic.storyboardc/a33-hA-MRM-view-0bw-Oe-HND.nib/objects-11.0+.nib</key>
 		<data>
@@ -815,11 +779,11 @@
 		</data>
 		<key>Wannatalk.bundle/WTCCListTblCell.nib</key>
 		<data>
-		GkVNEinhTx0VwmgvSxPpACpqv0Q=
+		hSTHM+UGyivrjta/sg97lEj1wvI=
 		</data>
 		<key>Wannatalk.bundle/WTCameraOverlayView.nib</key>
 		<data>
-		Y0TK8ydynQZh96+9Lc7/UM2g3kw=
+		D/lwS87oy47O3YbBpQFjy8gjQak=
 		</data>
 		<key>Wannatalk.bundle/WTChannelNameTblCell.nib</key>
 		<data>
@@ -839,7 +803,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTCircularProgressView.nib</key>
 		<data>
-		jmq6JHxDS0Qca3SXBafAlPa27uU=
+		0YbSlO6CjHkGErhWW+FwAnrm3JE=
 		</data>
 		<key>Wannatalk.bundle/WTCollectionViewHeader.nib</key>
 		<data>
@@ -967,7 +931,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTCore.storyboardc/WTCountriesListVC.nib</key>
 		<data>
-		tVsQErIZ1439BkHQGWUOHiVPz6c=
+		Wy08WuEt6Gh89UwHZOHRIejVzF0=
 		</data>
 		<key>Wannatalk.bundle/WTCore.storyboardc/WTPageViewController.nib</key>
 		<data>
@@ -991,7 +955,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTCore.storyboardc/Ya2-h9-wAQ-view-6Yy-7t-AS1.nib</key>
 		<data>
-		VsPc/X4DNkAeiLpeNjS6WHirnck=
+		RCN4Ui8tqlV4MtAcr8QDqdgc14w=
 		</data>
 		<key>Wannatalk.bundle/WTCore.storyboardc/bww-T1-2pd-view-zTx-Te-9tG.nib</key>
 		<data>
@@ -999,7 +963,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTCore.storyboardc/kex-Sk-f38-view-Jec-ap-wB4.nib</key>
 		<data>
-		Scn5TE3nFM5aWVFzNYYZLcEOq4I=
+		0Zg0OgRHhG7BGA6H1hFAVmV0bWA=
 		</data>
 		<key>Wannatalk.bundle/WTCore.storyboardc/svQ-aX-UKw-view-TDe-qi-b9N.nib</key>
 		<data>
@@ -1011,7 +975,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTCountryTblCell.nib</key>
 		<data>
-		pwO/Fy5/dYcmpkFneLzTdqudNPQ=
+		jh/kiMnAqe4Pi/U6yLQQ7V0MwPg=
 		</data>
 		<key>Wannatalk.bundle/WTCountryView.nib</key>
 		<data>
@@ -1023,7 +987,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTFMOtherContactsTblCell.nib</key>
 		<data>
-		pf0KpGX+8pK2iNQflJAHk9KfMrg=
+		pXqyAa2PSrxhhBaZHEep4QVRK/w=
 		</data>
 		<key>Wannatalk.bundle/WTFMRecentChatTblCell.nib</key>
 		<data>
@@ -1035,7 +999,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTGuideInfoTblCell.nib</key>
 		<data>
-		+PM6HApJzjvf+mfC+RlFdM65NKc=
+		ufXVLZjmIwiceuatqh0WbfrcNFo=
 		</data>
 		<key>Wannatalk.bundle/WTGuideSearchResultCell.nib/objects-12.3+.nib</key>
 		<data>
@@ -1055,7 +1019,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTInputBarX.nib</key>
 		<data>
-		5IVYCa6pL6ST0+krofi6/gQTdnw=
+		tqn8vzVk7DY/rpQP3Iv7I9jIqXg=
 		</data>
 		<key>Wannatalk.bundle/WTLabelButton.nib</key>
 		<data>
@@ -1087,7 +1051,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTNewTopicParticipantTblCell.nib</key>
 		<data>
-		rDF5aLqz2bRkA+9GmPQfxWXrs9U=
+		fteI7B3zDZCz4xh+ofqni08TSfQ=
 		</data>
 		<key>Wannatalk.bundle/WTNewTopicPhotoTblCell.nib</key>
 		<data>
@@ -1111,7 +1075,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTPhoneNumberView.nib</key>
 		<data>
-		B5lANOh2uBAlbsUxR4mc0DBrG9g=
+		Ufg6KuEj3LzdW5CAI2gc5FZOtHA=
 		</data>
 		<key>Wannatalk.bundle/WTProgressView.nib</key>
 		<data>
@@ -1119,7 +1083,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTSRHelpInfoTblCell.nib</key>
 		<data>
-		NOnt0Kio6DRyB9Jbursy2sIAzrk=
+		SY1jC7I7sSY3FZ49dHubbBTk7R4=
 		</data>
 		<key>Wannatalk.bundle/WTSROrgChannelTblCell.nib</key>
 		<data>
@@ -1127,11 +1091,11 @@
 		</data>
 		<key>Wannatalk.bundle/WTSROrgHashTagTblCell.nib</key>
 		<data>
-		CfwnmML0Yxun9yjges0uCXvZL+A=
+		fk9zVBmTFhLrEO2gsGVD09fEAgA=
 		</data>
 		<key>Wannatalk.bundle/WTSelectedOrganizationTblCell.nib</key>
 		<data>
-		rvSuDl8UrKR92LdhgyhBQk5d+NA=
+		86ABeF+V/x9uxqni8I7AVtJZxyA=
 		</data>
 		<key>Wannatalk.bundle/WTSubChannelTblCell.nib</key>
 		<data>
@@ -1139,7 +1103,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTTPOrganizationTblCell.nib</key>
 		<data>
-		YhJ7qzYhiZXLcaMlx+gbr/RNFqg=
+		kSfETDnPVN2AbkDO2ftg4dgI/dw=
 		</data>
 		<key>Wannatalk.bundle/WTTagCltCell.nib/objects-12.3+.nib</key>
 		<data>
@@ -1159,7 +1123,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTTopicProfileDestructionTblCell.nib</key>
 		<data>
-		cR1TScsOHDcY35SAAoxnn7oRZEc=
+		rh6LKfmoc3dHzkQXfHINJePJ2ks=
 		</data>
 		<key>Wannatalk.bundle/WTTopicProfileNameTblCell.nib</key>
 		<data>
@@ -1187,7 +1151,7 @@
 		</data>
 		<key>Wannatalk.bundle/WTUserImageView.nib</key>
 		<data>
-		W2k/zCPwMVnxoJ/RMbwCdRgwQhk=
+		hcoTAfm+HqRxgevgjFuYQXTq0FA=
 		</data>
 		<key>Wannatalk.bundle/WTYPNCountryTblCell.nib</key>
 		<data>
@@ -1203,7 +1167,7 @@
 		</data>
 		<key>Wannatalk.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		329aFUYsJrrsI5AZlTZVNJ0SwBE=
+		/1ZyK0/kRJHFGNXVRvz8vGerHMo=
 		</data>
 		<key>Wannatalk.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -1211,11 +1175,11 @@
 		</data>
 		<key>Wannatalk.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		XjU3873pedGL9VO8p2M0b9EvQYM=
+		JKK2pwen52UHKWGxU8mSuT+gStA=
 		</data>
 		<key>Wannatalk.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		wPJmYgdggyLt6YTNXrkfC3YXfqg=
+		fW7TcclYhOo/4EDsiyZo9zJ3Jz4=
 		</data>
 		<key>Wannatalk.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -1355,11 +1319,11 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Assets.car</key>
 		<data>
-		louYKLwT+BLdqxhLXBnxeitisKA=
+		IeK8+oP3TEFkhjUpA5GQUIQSmAs=
 		</data>
 		<key>WannatalkSDKResources.bundle/Info.plist</key>
 		<data>
-		7V6GD4ASAH5IOO/inQFTFzksP3w=
+		1TJRgfDnOgYPpIaeFubzWGBtGho=
 		</data>
 		<key>WannatalkSDKResources.bundle/Lato-Black.ttf</key>
 		<data>
@@ -1399,15 +1363,15 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/7lu-3K-5sH-view-FfP-bU-v5u.nib/objects-11.0+.nib</key>
 		<data>
-		T6ivqnu1FRJG6TLUBp3+HrbGsBw=
+		OoljCHSLe5el387Rzug/c2frSEo=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/7lu-3K-5sH-view-FfP-bU-v5u.nib/objects-12.3+.nib</key>
 		<data>
-		T6ivqnu1FRJG6TLUBp3+HrbGsBw=
+		OoljCHSLe5el387Rzug/c2frSEo=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/7lu-3K-5sH-view-FfP-bU-v5u.nib/runtime.nib</key>
 		<data>
-		T6ivqnu1FRJG6TLUBp3+HrbGsBw=
+		OoljCHSLe5el387Rzug/c2frSEo=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/8Jg-2T-Cce-view-sUk-gW-JK7.nib/objects-11.0+.nib</key>
 		<data>
@@ -1435,27 +1399,27 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Bz8-Rb-itt-view-YSO-Vz-f0M.nib/objects-11.0+.nib</key>
 		<data>
-		7QMkZVO8c6MuFCQiDMZ+eLbkdNY=
+		ta9dx94LBDmtiCptgas+PSKBt4I=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Bz8-Rb-itt-view-YSO-Vz-f0M.nib/objects-12.3+.nib</key>
 		<data>
-		7QMkZVO8c6MuFCQiDMZ+eLbkdNY=
+		ta9dx94LBDmtiCptgas+PSKBt4I=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Bz8-Rb-itt-view-YSO-Vz-f0M.nib/runtime.nib</key>
 		<data>
-		7QMkZVO8c6MuFCQiDMZ+eLbkdNY=
+		ta9dx94LBDmtiCptgas+PSKBt4I=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Elz-Wl-nFe-view-ovI-qN-PFA.nib/objects-11.0+.nib</key>
 		<data>
-		770FMsezIL8LwsrJmKiY6yRhtnE=
+		eatSKYt7BIjPbReQf6wgm6ec7zU=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Elz-Wl-nFe-view-ovI-qN-PFA.nib/objects-12.3+.nib</key>
 		<data>
-		770FMsezIL8LwsrJmKiY6yRhtnE=
+		eatSKYt7BIjPbReQf6wgm6ec7zU=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Elz-Wl-nFe-view-ovI-qN-PFA.nib/runtime.nib</key>
 		<data>
-		770FMsezIL8LwsrJmKiY6yRhtnE=
+		eatSKYt7BIjPbReQf6wgm6ec7zU=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Info.plist</key>
 		<data>
@@ -1463,39 +1427,39 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Jlz-ac-96E-view-bcj-Og-5tG.nib/objects-11.0+.nib</key>
 		<data>
-		awuxCdhP/+QVZlCx0PvDFejNrtc=
+		14zt5tu23wZQJp4PqWG92FEr0D4=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Jlz-ac-96E-view-bcj-Og-5tG.nib/objects-12.3+.nib</key>
 		<data>
-		awuxCdhP/+QVZlCx0PvDFejNrtc=
+		14zt5tu23wZQJp4PqWG92FEr0D4=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Jlz-ac-96E-view-bcj-Og-5tG.nib/runtime.nib</key>
 		<data>
-		awuxCdhP/+QVZlCx0PvDFejNrtc=
+		14zt5tu23wZQJp4PqWG92FEr0D4=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/K1S-Ea-CxX-view-nrH-iN-syD.nib/objects-11.0+.nib</key>
 		<data>
-		THWOmKnQhZ6jnlNBtxzmJti8AsM=
+		ah4v5S0fswpx0ij/K7RHu1YUBWo=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/K1S-Ea-CxX-view-nrH-iN-syD.nib/objects-12.3+.nib</key>
 		<data>
-		THWOmKnQhZ6jnlNBtxzmJti8AsM=
+		ah4v5S0fswpx0ij/K7RHu1YUBWo=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/K1S-Ea-CxX-view-nrH-iN-syD.nib/runtime.nib</key>
 		<data>
-		THWOmKnQhZ6jnlNBtxzmJti8AsM=
+		ah4v5S0fswpx0ij/K7RHu1YUBWo=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/NDr-TZ-fe7-view-f8H-UG-GDh.nib/objects-11.0+.nib</key>
 		<data>
-		dYo2PE4gFcXMY8SKVkm009RYWXE=
+		0hu9jWbx7dhVlSL+0WVfQGx5jWY=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/NDr-TZ-fe7-view-f8H-UG-GDh.nib/objects-12.3+.nib</key>
 		<data>
-		dYo2PE4gFcXMY8SKVkm009RYWXE=
+		0hu9jWbx7dhVlSL+0WVfQGx5jWY=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/NDr-TZ-fe7-view-f8H-UG-GDh.nib/runtime.nib</key>
 		<data>
-		dYo2PE4gFcXMY8SKVkm009RYWXE=
+		0hu9jWbx7dhVlSL+0WVfQGx5jWY=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/PageViewController.nib/objects-11.0+.nib</key>
 		<data>
@@ -1511,15 +1475,15 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Qea-ns-9T0-view-T5z-bL-nY2.nib/objects-11.0+.nib</key>
 		<data>
-		CBJdAT9ZPsbp5Ivy/NWp3H4TkEM=
+		Qdj8yrpSxZHySOK+NpqO8Xae+aw=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Qea-ns-9T0-view-T5z-bL-nY2.nib/objects-12.3+.nib</key>
 		<data>
-		CBJdAT9ZPsbp5Ivy/NWp3H4TkEM=
+		Qdj8yrpSxZHySOK+NpqO8Xae+aw=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Qea-ns-9T0-view-T5z-bL-nY2.nib/runtime.nib</key>
 		<data>
-		CBJdAT9ZPsbp5Ivy/NWp3H4TkEM=
+		Qdj8yrpSxZHySOK+NpqO8Xae+aw=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Uwu-55-OUX-view-NSN-rR-ZKC.nib/objects-11.0+.nib</key>
 		<data>
@@ -1535,15 +1499,15 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Vby-Re-ybV-view-Le6-sb-WS8.nib/objects-11.0+.nib</key>
 		<data>
-		YGeQS/f9tykOjTiL1DI7WcXwAz0=
+		NGJTk6q3NzD8vHFpwmeYiSmJqUA=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Vby-Re-ybV-view-Le6-sb-WS8.nib/objects-12.3+.nib</key>
 		<data>
-		YGeQS/f9tykOjTiL1DI7WcXwAz0=
+		NGJTk6q3NzD8vHFpwmeYiSmJqUA=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Vby-Re-ybV-view-Le6-sb-WS8.nib/runtime.nib</key>
 		<data>
-		YGeQS/f9tykOjTiL1DI7WcXwAz0=
+		NGJTk6q3NzD8vHFpwmeYiSmJqUA=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/WTAccountsTVC.nib/objects-11.0+.nib</key>
 		<data>
@@ -1703,15 +1667,15 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/WTSettingsTVC.nib/objects-11.0+.nib</key>
 		<data>
-		NejVimdiXz2aace1PPtdSBJhbkI=
+		smZ9P2M+uEHLEG55LO/+74DhedE=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/WTSettingsTVC.nib/objects-12.3+.nib</key>
 		<data>
-		NejVimdiXz2aace1PPtdSBJhbkI=
+		smZ9P2M+uEHLEG55LO/+74DhedE=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/WTSettingsTVC.nib/runtime.nib</key>
 		<data>
-		NejVimdiXz2aace1PPtdSBJhbkI=
+		smZ9P2M+uEHLEG55LO/+74DhedE=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/WTSolidColorsCVC.nib/objects-11.0+.nib</key>
 		<data>
@@ -1775,15 +1739,15 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/c33-sH-Fxy-view-KPv-FE-Mat.nib/objects-11.0+.nib</key>
 		<data>
-		NXqZPRA5ZNo+D9VkfruGYQrktkY=
+		BkNi+S8wdLNZUsD7eaVTCEMGJr0=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/c33-sH-Fxy-view-KPv-FE-Mat.nib/objects-12.3+.nib</key>
 		<data>
-		NXqZPRA5ZNo+D9VkfruGYQrktkY=
+		BkNi+S8wdLNZUsD7eaVTCEMGJr0=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/c33-sH-Fxy-view-KPv-FE-Mat.nib/runtime.nib</key>
 		<data>
-		DPjWGaC2UhPb9bnt97+xcnVgA5M=
+		vGK6X/Q+VGSu6xhjFWI3VgNGR6U=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/cbV-ag-MfP-view-85i-Am-HOm.nib/objects-11.0+.nib</key>
 		<data>
@@ -1799,15 +1763,15 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/dhB-HX-6Ah-view-zBD-Xb-bdi.nib/objects-11.0+.nib</key>
 		<data>
-		KNvk0NsMvbSkMH8ZP4crEDrdYy8=
+		9SdRU5lUN03cFXqiZ+Zi0AlQSns=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/dhB-HX-6Ah-view-zBD-Xb-bdi.nib/objects-12.3+.nib</key>
 		<data>
-		KNvk0NsMvbSkMH8ZP4crEDrdYy8=
+		9SdRU5lUN03cFXqiZ+Zi0AlQSns=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/dhB-HX-6Ah-view-zBD-Xb-bdi.nib/runtime.nib</key>
 		<data>
-		KNvk0NsMvbSkMH8ZP4crEDrdYy8=
+		9SdRU5lUN03cFXqiZ+Zi0AlQSns=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/f0r-gM-jnO-view-Ckw-oP-nG3.nib/objects-11.0+.nib</key>
 		<data>
@@ -1823,15 +1787,15 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/ooK-bq-Z9v-view-JYf-pw-nmP.nib/objects-11.0+.nib</key>
 		<data>
-		XXlUfLzuUNmWLA3FnMU6fXnT1zo=
+		CEXioKKV+z13KdRRIcDWpzkBBtY=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/ooK-bq-Z9v-view-JYf-pw-nmP.nib/objects-12.3+.nib</key>
 		<data>
-		XXlUfLzuUNmWLA3FnMU6fXnT1zo=
+		CEXioKKV+z13KdRRIcDWpzkBBtY=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/ooK-bq-Z9v-view-JYf-pw-nmP.nib/runtime.nib</key>
 		<data>
-		XXlUfLzuUNmWLA3FnMU6fXnT1zo=
+		CEXioKKV+z13KdRRIcDWpzkBBtY=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/rn7-KR-gc0-view-6fs-GT-5t8.nib/objects-11.0+.nib</key>
 		<data>
@@ -1847,27 +1811,27 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/zqV-uj-0XU-view-72h-hi-9vB.nib/objects-11.0+.nib</key>
 		<data>
-		yAhJUSBUrtENKMw5QgOP97ksILo=
+		3XND8TROat3+razbYEgvOCTIJRs=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/zqV-uj-0XU-view-72h-hi-9vB.nib/objects-12.3+.nib</key>
 		<data>
-		yAhJUSBUrtENKMw5QgOP97ksILo=
+		3XND8TROat3+razbYEgvOCTIJRs=
 		</data>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/zqV-uj-0XU-view-72h-hi-9vB.nib/runtime.nib</key>
 		<data>
-		yAhJUSBUrtENKMw5QgOP97ksILo=
+		3XND8TROat3+razbYEgvOCTIJRs=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTAudioMessageReceiverTblCell.nib</key>
 		<data>
-		OxX32hcM8FfMVdTmxkKgIVghc0k=
+		8C+2FkJByRJ4R+eVjWpvFZMm+bk=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTAudioMessageSenderTblCell.nib</key>
 		<data>
-		a1mZnxo7ixMwyPb3HhyR53R+cGg=
+		I7ILewsyxxHyLolUyxgl6ekZRWA=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTAudioMessageView.nib</key>
 		<data>
-		MHTyO/om2gUfAOC9DWG8qXfKbm4=
+		NQ8y1J3BP2MNGzf25xF9FNAHRNs=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTBase.storyboardc/Info.plist</key>
 		<data>
@@ -1879,7 +1843,7 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/WTBase.storyboardc/yAf-Un-BM5-view-KQh-xW-tDB.nib</key>
 		<data>
-		xwabn3SpoS2xrjIKSuPcclC+oMU=
+		2rbWXSxWTFlVO1u+3GWhHajy8P8=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTButton.nib</key>
 		<data>
@@ -1887,15 +1851,15 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/WTHTMLMessageReceiverTblCell.nib</key>
 		<data>
-		205hI5KVEX9iuWqsIRnvxz2lBKQ=
+		fav5VOYzYoorCxELNOahQScEMOg=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTHTMLMessageSenderTblCell.nib</key>
 		<data>
-		OTk/kaofhXnQUDtsykmxsvduUaI=
+		su4tf+pB4fRLpVxsS06L3YaA3XU=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTHTMLMessageView.nib</key>
 		<data>
-		wUs0g6PS0/0wK5igdURH4XSbiLE=
+		uc8gOzaTWnDwdZWVANI+9Cnp9I8=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTLabelTblCell.nib</key>
 		<data>
@@ -1907,71 +1871,71 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/WTMessageContactTblCell.nib</key>
 		<data>
-		xvQ/DdJqS+DKGFiLbqXVdntprWE=
+		xpZrwiELDvcN+B6773ITbY6yjqQ=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTMessageMediaOthersTblCell.nib</key>
 		<data>
-		n3oB44N7k2iHOGLkc47gxmBpu80=
+		1GHVOMPny4fBf11MpROHbpchy9k=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTMessageMediaSenderTblCell.nib</key>
 		<data>
-		grHGusRxpcD6TS8j6dOyuTCFn8o=
+		xkVSOjTsyhQVTLizlUtYgQsBQkA=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTMessageMediaView.nib</key>
 		<data>
-		VKgek1gIt/6ttd4hQZVrrdXhNmY=
+		JKV0ui1zEFsHsJgJCZ9/fsTn19c=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTOtherMessageTblCell.nib</key>
 		<data>
-		Q0TnXXPldqmW3Ddu8UBQBsvuBMs=
+		Z3JvHZ7xbulw7Kbw12Jn9ylSE+w=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedAudioMessageReceiverTblCell.nib</key>
 		<data>
-		IR7wpfJhBv6zu+49r+apaVUXNU4=
+		w2qZmTFf385U3qOv0sdX4keUP/k=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedAudioMessageSenderTblCell.nib</key>
 		<data>
-		W6zs3UglPnOfR//yeqvRfdbo6xo=
+		VNIOKxHUl4T/wtNg78OgS1uTLMo=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedContentView.nib</key>
 		<data>
-		Gyj2Kuk76ly/tNpV+0Y+U6zihEg=
+		Ouc5fLLxf8uj5UstT986ZxrZbhk=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedImageMessageReceiverTblCell.nib</key>
 		<data>
-		eko/AvlFZaFdiKbGCoudqS6C0Zc=
+		j4SVyp/Md3ss+cwXa8WqikzzbK0=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedImageMessageSenderTblCell.nib</key>
 		<data>
-		wvYuGGBtbcpWlXEHCsIpkvP+OGM=
+		F5vAHd4z1haTBdLgi9KCrFrfOiE=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedMessageMediaView.nib</key>
 		<data>
-		yxm+oWmdD80S4yvpLHzPnkfb/jc=
+		+2dKTVX1CZUbsWWvO6gscCRDTNQ=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedTextMessageReceiverTblCell.nib</key>
 		<data>
-		CO//jWjXreGaeOvZqb37AiMa/vE=
+		cPUw8UI2h5pt+BoLP1O+WS8DpWs=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedTextMessageSenderTblCell.nib</key>
 		<data>
-		N/marvoPhf72TNQ+y2m0nrirANI=
+		i9qxK5epyvDk4eXqLU6aB2SIR4c=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedVideoMessageReceiverTblCell.nib</key>
 		<data>
-		q1D6nxaB+y6V4NnejZLU3F/1jNw=
+		ikXJkscqhxMx9w014tFQI900MlQ=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedVideoMessageSenderTblCell.nib</key>
 		<data>
-		VvSmEr/Pw9wjCZEz5ZhQ98hSo44=
+		84CI4nzZjUulIzdZJg2xhFnI9nE=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTRepliedVideoMessageView.nib</key>
 		<data>
-		FRwcwuo2wfMTIv4Wjz1Kszfns1Q=
+		y9m7cXJm4hZ2/Z9tY6Nn2IqJQ80=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTSelfMessageTblCell.nib</key>
 		<data>
-		ioYk3EItqiMEeH6xYSgfh8vhrQk=
+		ftEBBQISiOs5e8grwNA9iz8OYbc=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTSettingConnectionTblCell.nib</key>
 		<data>
@@ -1983,23 +1947,23 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/WTSettingUserProfileTblCell.nib</key>
 		<data>
-		ooNp7rDQBT0VztDWSOuCPQDInkY=
+		o9U9W/c5jBsM9YnneZJ7OfY2Dw8=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTVideoMessageReceiverTblCell.nib</key>
 		<data>
-		oxJU8wUsCp/5KzBX9iQ5J1N79/o=
+		Wwvu2PzLVeWziouoXngXctAXfFw=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTVideoMessageSenderTblCell.nib</key>
 		<data>
-		mzMsl07mpvuPw0S1JwBAexqGcF0=
+		vacre/Qx8g71M+YvarnsK5zIP9U=
 		</data>
 		<key>WannatalkSDKResources.bundle/WTVideoMessageView.nib</key>
 		<data>
-		ZCSXwube6nxo3bTBjNUlqqJzQdk=
+		K75vy7vz0nvcjlLaQdyg7bG1vLI=
 		</data>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		qymjohERfRMe5Fy0/YZ27ABf9sE=
+		lciqUWKsd6X1Z06ceZCyns6eTDs=
 		</data>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -2007,11 +1971,11 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		1eSu7ci6JZxqKQRfQFRUEviNBhY=
+		ku7jqC3JOlrToGxOo7iCOUDJp7w=
 		</data>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		L7pa83XB0zyBHBFxvKKeeKlu9Vo=
+		36Y272Ui57YzjY3RH/j4OsF5qDc=
 		</data>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -2099,11 +2063,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			x9Y9xciHtwaUS50BN9bzBKiPP/I=
+			CVuSJv5LtyxJqODD2P3ey/6nntY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZS2fQRl9m2tfrR/XvnQ7UMnvMyl9iBib3r5JPwD8lrI=
+			B3OOw2CuJCsL6+kkEq2Dr96+OdLC8GeXyd5KKXmVoNI=
 			</data>
 		</dict>
 		<key>Headers/WTExternalSDK.h</key>
@@ -2200,198 +2164,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CrDQnRZd8LcS2iRi9ydhk59ZBwY=
+			I6XNQ6XDKaVg6MuBLA+YVtZxFRY=
 			</data>
 			<key>hash2</key>
 			<data>
-			veLL9nCsQMVeby6GyuY6PtapGjIfBYl3WbtrIvlH6a0=
+			yGu0XJqqw1WENNGyzv3NjAsuunpGOB3w5JWESb5dAlM=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			baNgg1wRmsj7juGrqOVQO3gNUgg=
+			iAue9VPc/VJShHdmY/hdudBZfsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			1w/lE6Bq91TZo7tgUNcCXAHYyYVO1EpZNRNNAKnIs4k=
+			ubEOn2QESB9EtCcLZO4/SMJr/jzyhlPwBB2dg5eJMyM=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aLjcmMPTPhLIOpQ19tT4NYH8lIQ=
+			2cg/QH0gij4m9SDBwNc4GaTvEbU=
 			</data>
 			<key>hash2</key>
 			<data>
-			e3jnGJMwcwKi0LFDS0r9vJa7gRKVhQLM7RseymHSSk0=
-			</data>
-		</dict>
-		<key>Modules/WTExternalSDK.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CrDQnRZd8LcS2iRi9ydhk59ZBwY=
-			</data>
-			<key>hash2</key>
-			<data>
-			veLL9nCsQMVeby6GyuY6PtapGjIfBYl3WbtrIvlH6a0=
-			</data>
-		</dict>
-		<key>Modules/WTExternalSDK.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			baNgg1wRmsj7juGrqOVQO3gNUgg=
-			</data>
-			<key>hash2</key>
-			<data>
-			1w/lE6Bq91TZo7tgUNcCXAHYyYVO1EpZNRNNAKnIs4k=
-			</data>
-		</dict>
-		<key>Modules/WTExternalSDK.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aLjcmMPTPhLIOpQ19tT4NYH8lIQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			e3jnGJMwcwKi0LFDS0r9vJa7gRKVhQLM7RseymHSSk0=
+			HQHjQFutWQMXEd8PqcRzHgYXnpGAiMaGjijYuy2ocbA=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DCx9ALo3c00SS1H4MBM4aGEJMfY=
+			bsLdL+Inh000nvhOPIjjyw8U/gc=
 			</data>
 			<key>hash2</key>
 			<data>
-			j4chNr2kPJm6zopW6w+LkeD3gXN6k7Cmf5Y1w7g6zCk=
+			OxmwHq2eTSjDoJ0WI1BaLqvFPNy3SDByWmIsEH3izps=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IFl4qQwh2oZu8QwduvKaJfDesug=
+			RijEIXQpndSXTyrOLD/V+IZxby0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6zDZQaK/zMyiw/S6xw3jmIwRPnOBjYcCn5aiZEHT5zs=
+			3CHv/Pl27Y+m6gxWC5tih0QPpGCQFM7RFQVWEGBsqdU=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			71vY8PIl/krLrUI6djpAkLtfY+Q=
+			VaLraSdVZ46NckwxFyxNF4DWnEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			gEw2O15bg9/5LNJXpOUJ7syD4UQCKV5VnY9upqXS1hU=
-			</data>
-		</dict>
-		<key>Modules/WTExternalSDK.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DCx9ALo3c00SS1H4MBM4aGEJMfY=
-			</data>
-			<key>hash2</key>
-			<data>
-			j4chNr2kPJm6zopW6w+LkeD3gXN6k7Cmf5Y1w7g6zCk=
-			</data>
-		</dict>
-		<key>Modules/WTExternalSDK.swiftmodule/i386.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IFl4qQwh2oZu8QwduvKaJfDesug=
-			</data>
-			<key>hash2</key>
-			<data>
-			6zDZQaK/zMyiw/S6xw3jmIwRPnOBjYcCn5aiZEHT5zs=
-			</data>
-		</dict>
-		<key>Modules/WTExternalSDK.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			71vY8PIl/krLrUI6djpAkLtfY+Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			gEw2O15bg9/5LNJXpOUJ7syD4UQCKV5VnY9upqXS1hU=
+			+2XXBTMlmYkhhbRubdQxBHv2DFAwEEHt4RNUZu5l1Ig=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vuoEHYQIYVnTyIXXjigTmtUfCqM=
+			xG5gkaqEagkDSxNF9A9Sn+8q4ls=
 			</data>
 			<key>hash2</key>
 			<data>
-			CCgeFBSFk3mBrBSBMqXjSTXh+zYzRxxlcAiJ1XqLH7I=
+			0I+hETOr+EYxPl/ToF/oc7UgMKi4My3RRQ+xj4whDuQ=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BhsOG3Sspe3sHwZ9StfgRcxFHYE=
+			g3WKgnu49jw1Zrd2xcv9mOt9dMs=
 			</data>
 			<key>hash2</key>
 			<data>
-			1VxHrYl7XN+BdZkLO7mLMXCzcUSSovhyVJuoumDCvT8=
+			RqNNo2j/pZgZfUOy5K+sAzalyk3ZTSUfQVj37h6lRhQ=
 			</data>
 		</dict>
 		<key>Modules/WTExternalSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LeJNCrVDqkezr1cmFnFNWq/Djys=
+			j/ENC+NonPk1L+NCVNwloAIvBzg=
 			</data>
 			<key>hash2</key>
 			<data>
-			LAfz8Y7uwdvUdKQySKoAlO+3in+45kC1OFYudJA0FyQ=
-			</data>
-		</dict>
-		<key>Modules/WTExternalSDK.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vuoEHYQIYVnTyIXXjigTmtUfCqM=
-			</data>
-			<key>hash2</key>
-			<data>
-			CCgeFBSFk3mBrBSBMqXjSTXh+zYzRxxlcAiJ1XqLH7I=
-			</data>
-		</dict>
-		<key>Modules/WTExternalSDK.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BhsOG3Sspe3sHwZ9StfgRcxFHYE=
-			</data>
-			<key>hash2</key>
-			<data>
-			1VxHrYl7XN+BdZkLO7mLMXCzcUSSovhyVJuoumDCvT8=
-			</data>
-		</dict>
-		<key>Modules/WTExternalSDK.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LeJNCrVDqkezr1cmFnFNWq/Djys=
-			</data>
-			<key>hash2</key>
-			<data>
-			LAfz8Y7uwdvUdKQySKoAlO+3in+45kC1OFYudJA0FyQ=
+			I2DWdxtqya5I7nHAGYJpnJnpRgvFh47f4xzJb48UvNk=
 			</data>
 		</dict>
 		<key>PrivateHeaders/WTChatUIController.h</key>
@@ -2585,22 +2450,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d6peU/v1C89csy9tqL2djp3W2HM=
+			bPsC3R4+XoTmMrYiTDCDf1kbB8s=
 			</data>
 			<key>hash2</key>
 			<data>
-			dBA1A5Wmm7PlL8xPXCfUvJkTyXCjyx+ERNEF2c72orw=
+			yDtKqD1wZBaMMksmuWeIMUysHICOjeYT77cCBwpwDG8=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4MQ1UjRSqLK13bj/oEp9NJoViBg=
+			uqjGD7A8D3LiIaZr85R3kKXacBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			L/XDTM5u57ZLjspGAfFcIZUKq3qXGx6IiTVAR095lxk=
+			AUL4ADZ44rgR4oOgV+4zqwITQbA/OaDQH7Mbw6S2dhQ=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Organization.storyboardc/72p-Vl-9Tj-view-xzC-FZ-Pgc.nib</key>
@@ -2629,11 +2494,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EdrlqQL97EeyWN8k8ZmQ/yN3aRQ=
+			Vb9itLM2sUU1dRr8m326CF5qP3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y/Ili/kKuXnP6JizPtL+NObmdn07Id3aNZ9Wj8IS3ZA=
+			FM96DNAqjtgVcGyO6I862XluFe6BIMvRIBwh3EBm4CI=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Organization.storyboardc/NoD-EE-yUj-view-17L-vo-W2w.nib</key>
@@ -2783,55 +2648,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AGyK1Mx7VpFwggc86SC9lrxTOYg=
+			fWlsD5W7CqwFlAKsEat569W6dbY=
 			</data>
 			<key>hash2</key>
 			<data>
-			luXtdVojW0mMelybTj5+E/WV/kTcDbZe1ts+5ySvDBg=
+			EAGqMn3TDAj54F2o0SvsO10y+5D3ROwCHyd1r6ueWlQ=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Organization.storyboardc/YUi-JQ-6q0-view-L40-IU-adM.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OB3tum3LMJYOP8EKBg2WGF/Ysi0=
+			GTNB9nuJ4jIK7g9y69DofQxVwQE=
 			</data>
 			<key>hash2</key>
 			<data>
-			oq6wjyzt33HN7RRijWJCkWT6GzfknRB8Any7WGVo5Rw=
+			s2gXDPS7STjuIsXO9keYdWD+c8Y5oa/gk5cYPNrz1zA=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Organization.storyboardc/fdX-gt-fVx-view-wk9-72-BwD.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HH1gGHfu5Ys9PPFbh0zTuy/zj7g=
+			cGHRQYpnraIUhLdqk7uKSj/7ShQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			o8ZbBvl/IlGpJgR88/iEvuGQ1BOJbBBNhcO0Moy6nN0=
+			+Z3TZL0dAwD7Xs4Nm0cKl3cqD/psH4vhGO6gd99aaWo=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Organization.storyboardc/h1T-xn-Do0-view-XAE-vW-57f.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GNIQjL+d39JU8Jvq9vdLsgktgnU=
+			qTZICzKkM42v+3ToeR99ClWCJCI=
 			</data>
 			<key>hash2</key>
 			<data>
-			/LZ0Ep47nbGkzMpD5Ky+FmDnCbXeib00RZcytOjiX3E=
+			g9+36CnKqERq6YCtZ13/LeWFHEcmJngrFCZMWq4RWA0=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Organization.storyboardc/jcO-vJ-Pcp-view-lL7-ws-9cP.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9/bMCCHWkij9IOLSf0A3UVneYIo=
+			pxAtTCcMl1w0GRPvtrXgXRzIuYY=
 			</data>
 			<key>hash2</key>
 			<data>
-			VAxrLzdWXOXt7hZJgjh6JJ40W6Gyb2fNQ/OASS6ZG1U=
+			81JlMisEGmPVTeP+D34MNi8gU8qhh0lAQ46aZ+YygUA=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Organization.storyboardc/lQ2-yg-H8x-view-3C5-ii-1zF.nib</key>
@@ -3069,88 +2934,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0Ed7TKInR22n4ITr37yAh1r8mbI=
+			CqAuRQceFao5Zjigu996yF/Nofs=
 			</data>
 			<key>hash2</key>
 			<data>
-			+mESSl0sBeQ5lrfur82uQa3++hMdYazmvT9f99ubLD4=
+			gjujG+6HXS5QgPN0KmmwJvRupysisyJCFuftZgP3pWo=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Setup.storyboardc/p9u-2E-ifu-view-VoK-i7-p2U.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0Ed7TKInR22n4ITr37yAh1r8mbI=
+			CqAuRQceFao5Zjigu996yF/Nofs=
 			</data>
 			<key>hash2</key>
 			<data>
-			+mESSl0sBeQ5lrfur82uQa3++hMdYazmvT9f99ubLD4=
+			gjujG+6HXS5QgPN0KmmwJvRupysisyJCFuftZgP3pWo=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Setup.storyboardc/sJK-ha-b40-view-hdb-UD-HWS.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			twtVFTtb6VvjOmE6hIgxN8GSTcw=
+			JAi13cpB0rBSqjXAxY2IO7PJpBM=
 			</data>
 			<key>hash2</key>
 			<data>
-			kx9UpLONDJe92EC87nDsLCaBwCNlnz4qe2H03yN5PWs=
+			zgwh4/a4NcRU5rMTZLH1FOxlVeIqcMU2d0thG27ocvg=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Setup.storyboardc/sJK-ha-b40-view-hdb-UD-HWS.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			twtVFTtb6VvjOmE6hIgxN8GSTcw=
+			JAi13cpB0rBSqjXAxY2IO7PJpBM=
 			</data>
 			<key>hash2</key>
 			<data>
-			kx9UpLONDJe92EC87nDsLCaBwCNlnz4qe2H03yN5PWs=
+			zgwh4/a4NcRU5rMTZLH1FOxlVeIqcMU2d0thG27ocvg=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Setup.storyboardc/tit-eJ-cr4-view-20R-gM-8aU.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aUtC7Uduk5vryhQXe2H3p4CjXq0=
+			o7JHFpFDEA4AwPQXI6wXTo/hpKQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			aB2Sw2d23KRadVC4vj9dBEEExPrR9M9RPA8ZY/G7og0=
+			33MsjDYqK7HW6mEQqorzOMxAXpUh9TraLhElrnHirpo=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Setup.storyboardc/tit-eJ-cr4-view-20R-gM-8aU.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aUtC7Uduk5vryhQXe2H3p4CjXq0=
+			o7JHFpFDEA4AwPQXI6wXTo/hpKQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			aB2Sw2d23KRadVC4vj9dBEEExPrR9M9RPA8ZY/G7og0=
+			33MsjDYqK7HW6mEQqorzOMxAXpUh9TraLhElrnHirpo=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Setup.storyboardc/uK4-1m-Meq-view-59R-p6-bJ0.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZQhwsQSDNWUarFVAzzXw10NZEvk=
+			8ab4hlnSjtx8eDxVJn7veESXu0c=
 			</data>
 			<key>hash2</key>
 			<data>
-			p9ByncO3Zy7Hz/GqGukZccFfCymiXChJ4lH5kdCD0MM=
+			9JkQ3LOUD9SnCXHH7hWFrqnoZdc6Yn5E0aYARS0epk8=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Setup.storyboardc/uK4-1m-Meq-view-59R-p6-bJ0.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gnWahABmrw/PUU8+R3PBfJMkIwI=
+			EVB2fRIX0A0JZdXyQNtouRNr99g=
 			</data>
 			<key>hash2</key>
 			<data>
-			OMUPImuRTzFFKCh2YAJVPGIoj3b8IZw6D1yBXUxPe5Y=
+			pyQYb3abew196Z7r/0sJfoWHYTxzILhFchnYDfShpNY=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Setup.storyboardc/vEN-yk-c2Z-view-Dww-e8-df2.nib/objects-11.0+.nib</key>
@@ -3201,22 +3066,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2rjvmHcpZjbYdvoOpJZNK8Gia1c=
+			j9whOSZ9OQG7UQeH2kZo8x+FHdA=
 			</data>
 			<key>hash2</key>
 			<data>
-			GvzBV68DIVFNwWg1RzxrrcolzF5XvPsf7DTptMNGEi0=
+			GYUx8+71KM2q2s9Hj9nOE1PPiQcrPPIJXEGNSClGrbo=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/CVz-2M-xKW-view-rcb-7q-quy.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2rjvmHcpZjbYdvoOpJZNK8Gia1c=
+			j9whOSZ9OQG7UQeH2kZo8x+FHdA=
 			</data>
 			<key>hash2</key>
 			<data>
-			GvzBV68DIVFNwWg1RzxrrcolzF5XvPsf7DTptMNGEi0=
+			GYUx8+71KM2q2s9Hj9nOE1PPiQcrPPIJXEGNSClGrbo=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/CsY-Lm-COj-view-zfz-xx-QoS.nib/objects-11.0+.nib</key>
@@ -3245,44 +3110,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TVAvZHVAIG3mBQ1087khrhz7hFo=
+			fuD5cErCWYFF2f6ixBBgd2K9No0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6c2oHy2FsBpJaFmrJ4UJVsJThVnq/aMCvzrxWckyaYI=
+			C/8iIp2qmu/i6vWc6ZwCRVKxQCpXNXs8A08XpvIMY9Y=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/E2S-6e-rqi-view-MuC-7D-Vsm.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TVAvZHVAIG3mBQ1087khrhz7hFo=
+			fuD5cErCWYFF2f6ixBBgd2K9No0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6c2oHy2FsBpJaFmrJ4UJVsJThVnq/aMCvzrxWckyaYI=
+			C/8iIp2qmu/i6vWc6ZwCRVKxQCpXNXs8A08XpvIMY9Y=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/HSb-WU-R0c-view-b2d-2j-324.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZrkUz3lu5K15HoqvQdAwz5EK1QU=
+			gOxv8kEKuNntklLi4SCy52eCl3o=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rhnmy48tZlVMdJ55rrlJ9mm9mtiMsJ3WVVvzP54smzw=
+			yDREmkBQKzCvaEwufWVZY6DUvG7lS78rBRxwofiN0RI=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/HSb-WU-R0c-view-b2d-2j-324.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZrkUz3lu5K15HoqvQdAwz5EK1QU=
+			gOxv8kEKuNntklLi4SCy52eCl3o=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rhnmy48tZlVMdJ55rrlJ9mm9mtiMsJ3WVVvzP54smzw=
+			yDREmkBQKzCvaEwufWVZY6DUvG7lS78rBRxwofiN0RI=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/IlM-18-2cZ-view-MS8-ce-bL5.nib/objects-11.0+.nib</key>
@@ -3454,22 +3319,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/gaLmje36PajLyyZrZjlgD2E5vs=
+			Ll0VEvesrN+B+DhFybatTTx4rBM=
 			</data>
 			<key>hash2</key>
 			<data>
-			iQEs8ebOWIjaeeukbnBqYcMuxD3tOgWX+KrVSo5inM0=
+			HiV4Uk0xk8pw0mQAJ8LcD7eINn32bgO1pzMIHPr1OVU=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/SdS-8N-nS9-view-dr5-7H-dXM.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/gaLmje36PajLyyZrZjlgD2E5vs=
+			Ll0VEvesrN+B+DhFybatTTx4rBM=
 			</data>
 			<key>hash2</key>
 			<data>
-			iQEs8ebOWIjaeeukbnBqYcMuxD3tOgWX+KrVSo5inM0=
+			HiV4Uk0xk8pw0mQAJ8LcD7eINn32bgO1pzMIHPr1OVU=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTActionSheetVC.nib/objects-11.0+.nib</key>
@@ -3542,22 +3407,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Bfjy4Gbk1B5tN3xHZ3zziSCq6Gk=
+			+IdY1P5+CE6niiAXWB6wK2nQ4eE=
 			</data>
 			<key>hash2</key>
 			<data>
-			kIR5TdiLh3lu838K3+BiFnn+++/Ur5WJO/7THgPnwnU=
+			r2RAl0qGnwd9jtKB130BLfy0hpNUyQW23GBHZkb0N3s=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTBotsVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bfjy4Gbk1B5tN3xHZ3zziSCq6Gk=
+			+IdY1P5+CE6niiAXWB6wK2nQ4eE=
 			</data>
 			<key>hash2</key>
 			<data>
-			kIR5TdiLh3lu838K3+BiFnn+++/Ur5WJO/7THgPnwnU=
+			r2RAl0qGnwd9jtKB130BLfy0hpNUyQW23GBHZkb0N3s=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTCameraVC.nib/objects-11.0+.nib</key>
@@ -3630,22 +3495,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			epfZ8t0VXEy2bRYIAtPUPf2+s+A=
+			drIdQUi6VD3uiDxOwurHk6sWa50=
 			</data>
 			<key>hash2</key>
 			<data>
-			qM00DgPQBtIbRAigGFWnYEtUz88Ub6hNF9L05dMhWqQ=
+			7LRGBdV8nCb46ItSdXgh18qrzTAiViw4/FAeIB3RKnE=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTForwardMessageVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			epfZ8t0VXEy2bRYIAtPUPf2+s+A=
+			drIdQUi6VD3uiDxOwurHk6sWa50=
 			</data>
 			<key>hash2</key>
 			<data>
-			qM00DgPQBtIbRAigGFWnYEtUz88Ub6hNF9L05dMhWqQ=
+			7LRGBdV8nCb46ItSdXgh18qrzTAiViw4/FAeIB3RKnE=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTGuideVC.nib/objects-11.0+.nib</key>
@@ -3982,22 +3847,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AZz9LmYTsqc1j0flF+CBRAt69PY=
+			Q6PKe+VJGULX1D2mcGriEDdUtu4=
 			</data>
 			<key>hash2</key>
 			<data>
-			XxRSrK17loV96Fw2cQp1qoD2Bs9lcjQw3xxelWJJvBc=
+			szZ+tFHz7ZHlkr09a5Rlyp0Jd8JWINd3TmrZ/Sv1Ryo=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/WTTopicsVC3.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AZz9LmYTsqc1j0flF+CBRAt69PY=
+			Q6PKe+VJGULX1D2mcGriEDdUtu4=
 			</data>
 			<key>hash2</key>
 			<data>
-			XxRSrK17loV96Fw2cQp1qoD2Bs9lcjQw3xxelWJJvBc=
+			szZ+tFHz7ZHlkr09a5Rlyp0Jd8JWINd3TmrZ/Sv1Ryo=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Topic.storyboardc/a33-hA-MRM-view-0bw-Oe-HND.nib/objects-11.0+.nib</key>
@@ -4235,22 +4100,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GkVNEinhTx0VwmgvSxPpACpqv0Q=
+			hSTHM+UGyivrjta/sg97lEj1wvI=
 			</data>
 			<key>hash2</key>
 			<data>
-			CruBFTGUl8qG57XbYXL2r4TV0kJ/5OBKW2nuyMh7u7E=
+			5fhwyF8uHmfgcIt1hH5zpmAEZlSk5f1o4qdd9CQXPmk=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTCameraOverlayView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y0TK8ydynQZh96+9Lc7/UM2g3kw=
+			D/lwS87oy47O3YbBpQFjy8gjQak=
 			</data>
 			<key>hash2</key>
 			<data>
-			M0OiCmGfqtPp/vW7qk/FC7H9TsqUIOZXFX1FyPdpZ1k=
+			3oQWPJYaLwx3zkwMitkuoM2fixwqq5fG2d/tZtrclFU=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTChannelNameTblCell.nib</key>
@@ -4301,11 +4166,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jmq6JHxDS0Qca3SXBafAlPa27uU=
+			0YbSlO6CjHkGErhWW+FwAnrm3JE=
 			</data>
 			<key>hash2</key>
 			<data>
-			RVPBTNtk9HZ8gw4uL88ZovT1TVvHjJwnvY1nfSp+VIs=
+			rAPiKeIDOztBTSbTaVNF5rASCK6EEXU9v1vClxUF//I=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTCollectionViewHeader.nib</key>
@@ -4653,11 +4518,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tVsQErIZ1439BkHQGWUOHiVPz6c=
+			Wy08WuEt6Gh89UwHZOHRIejVzF0=
 			</data>
 			<key>hash2</key>
 			<data>
-			w2zLiBYE3pMz/L3Y+1JJ24P/HHpV606nQoIBpV8G3Uw=
+			w/9Go2xFOW+Ijr/ttmujPbN9Yvc5h3rMBMm6ZDdbFbc=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTCore.storyboardc/WTPageViewController.nib</key>
@@ -4719,11 +4584,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VsPc/X4DNkAeiLpeNjS6WHirnck=
+			RCN4Ui8tqlV4MtAcr8QDqdgc14w=
 			</data>
 			<key>hash2</key>
 			<data>
-			f+W9rZK/aoWaCkEhzvVpJWimVGoaArKyDThQDAaIegY=
+			o8020/s5LSMgqk62EgeIXJ5zm0WAJWQKfDtZzKaDfS4=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTCore.storyboardc/bww-T1-2pd-view-zTx-Te-9tG.nib</key>
@@ -4741,11 +4606,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Scn5TE3nFM5aWVFzNYYZLcEOq4I=
+			0Zg0OgRHhG7BGA6H1hFAVmV0bWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			npvhGJFxBI3WdsnA75TMZRpQV8iz2mhC5VDmLktXy1g=
+			07p8dxMXB8eU94QfELaZknJXnJ1hmZf4OdUXaVUODmY=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTCore.storyboardc/svQ-aX-UKw-view-TDe-qi-b9N.nib</key>
@@ -4774,11 +4639,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pwO/Fy5/dYcmpkFneLzTdqudNPQ=
+			jh/kiMnAqe4Pi/U6yLQQ7V0MwPg=
 			</data>
 			<key>hash2</key>
 			<data>
-			o2UcixiXiTXTuHaz9xq3Bm8IaKvZKAtDLey0+pLzNDQ=
+			NGc6AF17xhnnzVlOcFe3kH52SoexQEmAKj5O2LwBcFs=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTCountryView.nib</key>
@@ -4807,11 +4672,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pf0KpGX+8pK2iNQflJAHk9KfMrg=
+			pXqyAa2PSrxhhBaZHEep4QVRK/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			YBLWu7OtfzOw2SOElRInRit1oslrTdXvPw4IAg6C4ME=
+			CgcvwajQu70bRK0e6ViAg1J7XbbOAUaDJ0i8ZRCnvTs=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTFMRecentChatTblCell.nib</key>
@@ -4840,11 +4705,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+PM6HApJzjvf+mfC+RlFdM65NKc=
+			ufXVLZjmIwiceuatqh0WbfrcNFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			wnSMW2kOd8GzmZJQwnRgcjZdgJHFCToWqkNHFglvgxY=
+			2RJxxhhncivuA869lfpsLKEdVp7kNFyEIVBhQaI9f8w=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTGuideSearchResultCell.nib/objects-12.3+.nib</key>
@@ -4895,11 +4760,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5IVYCa6pL6ST0+krofi6/gQTdnw=
+			tqn8vzVk7DY/rpQP3Iv7I9jIqXg=
 			</data>
 			<key>hash2</key>
 			<data>
-			3SkdvhGDLZYFOaSbVnZYmXm0QBQDb2Zty2dkKojro60=
+			d5/eHv8ljB+eDPIrKIiQsY+5MkPiSCyMosNnqXLudHU=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTLabelButton.nib</key>
@@ -4983,11 +4848,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rDF5aLqz2bRkA+9GmPQfxWXrs9U=
+			fteI7B3zDZCz4xh+ofqni08TSfQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			WxPTdc9voXgXcS6oECxFwcP96+qvfrBQzTYP53sF4Bo=
+			PlSJZzPwaYy3K2wv/djRdWJEQFDjNIuowqwLdlqMM08=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTNewTopicPhotoTblCell.nib</key>
@@ -5049,11 +4914,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B5lANOh2uBAlbsUxR4mc0DBrG9g=
+			Ufg6KuEj3LzdW5CAI2gc5FZOtHA=
 			</data>
 			<key>hash2</key>
 			<data>
-			TZX+eajcSg4PCRcoSJ0PZ+/h/Hnty+DgLV7kiwz/lIE=
+			ccoZPDueA+y84Cn3trd9V+THZfs447GpYWchzvzHb84=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTProgressView.nib</key>
@@ -5071,11 +4936,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NOnt0Kio6DRyB9Jbursy2sIAzrk=
+			SY1jC7I7sSY3FZ49dHubbBTk7R4=
 			</data>
 			<key>hash2</key>
 			<data>
-			OkNlCGE9ws0c9BCQgSkuoOzhhj/RvEw87s8oEx/Hr0E=
+			1oXbwD5NuhveMPQuzMzEv0nePpLZg0OvzVuU+OGPca4=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTSROrgChannelTblCell.nib</key>
@@ -5093,22 +4958,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CfwnmML0Yxun9yjges0uCXvZL+A=
+			fk9zVBmTFhLrEO2gsGVD09fEAgA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qx1zxxz5gSL6jALzTH34ErH4xFkxUAsAGcGesxr3BQM=
+			/02XN0YA3e/BYFBCTKcp0Q0yLo3ZS6HgRQMIeCyJi+4=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTSelectedOrganizationTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rvSuDl8UrKR92LdhgyhBQk5d+NA=
+			86ABeF+V/x9uxqni8I7AVtJZxyA=
 			</data>
 			<key>hash2</key>
 			<data>
-			2d5o4bY9SeQwtYSRGtnPhmstFJYO79sKB+o/ZmoSyek=
+			PnexB2Wf2kAyfFcNfZnrfqSWT8ZpQT+cKuZnifg2tC8=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTSubChannelTblCell.nib</key>
@@ -5126,11 +4991,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YhJ7qzYhiZXLcaMlx+gbr/RNFqg=
+			kSfETDnPVN2AbkDO2ftg4dgI/dw=
 			</data>
 			<key>hash2</key>
 			<data>
-			tPRLDRImEPnOpU4Q0qtqlPFugJ/E2vX9ypRk9L1j5eM=
+			BPT0PPDK6C0eoWjXTUyoIFOSLmfYBmhAsbLpA0FbOdg=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTTagCltCell.nib/objects-12.3+.nib</key>
@@ -5181,11 +5046,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cR1TScsOHDcY35SAAoxnn7oRZEc=
+			rh6LKfmoc3dHzkQXfHINJePJ2ks=
 			</data>
 			<key>hash2</key>
 			<data>
-			MLzFdIXwIPJR9vgi4ZRG2n1cASwTFWNsz/twjshjw8w=
+			I5EOaMcNzddq6YM/CRkrqEI6/wl4XHFDa3nb+Zhpvm0=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTTopicProfileNameTblCell.nib</key>
@@ -5258,11 +5123,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			W2k/zCPwMVnxoJ/RMbwCdRgwQhk=
+			hcoTAfm+HqRxgevgjFuYQXTq0FA=
 			</data>
 			<key>hash2</key>
 			<data>
-			8mom+4qJJtFs4zvQ2IpBjF5lyBeAlKJDhbWJNGrlZYs=
+			UDChbHfe7cMo/CG46MviiCMIyuoAMEaZTRL4iCJqycI=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/WTYPNCountryTblCell.nib</key>
@@ -5302,11 +5167,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			329aFUYsJrrsI5AZlTZVNJ0SwBE=
+			/1ZyK0/kRJHFGNXVRvz8vGerHMo=
 			</data>
 			<key>hash2</key>
 			<data>
-			pF0WxWoBe2csj3M/jyKEjapJuVJMstL9qZsh2lt7Q0A=
+			U8HYWJwfMPe2b21cZUBMU4yJlHUEgabdX1Pi7vzBOek=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/_CodeSignature/CodeRequirements</key>
@@ -5324,22 +5189,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XjU3873pedGL9VO8p2M0b9EvQYM=
+			JKK2pwen52UHKWGxU8mSuT+gStA=
 			</data>
 			<key>hash2</key>
 			<data>
-			4x/YNPMtfR+3EpLsSa+JRW81kzwqjucgC1DEukMUcWI=
+			0berpjK6+LqjMszYU+1Vi6vbafBvFVoVJq6ajKx4GTM=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wPJmYgdggyLt6YTNXrkfC3YXfqg=
+			fW7TcclYhOo/4EDsiyZo9zJ3Jz4=
 			</data>
 			<key>hash2</key>
 			<data>
-			PKS+BGj3qbZI3r6aq6/iiTHe8tyNCahLzovCMp41iAI=
+			Ap5ucqNmjbs/X1SYkRrTUi7XJdJ1ThBDfD6jCAJuxxU=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/_CodeSignature/CodeSignature</key>
@@ -5720,22 +5585,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			louYKLwT+BLdqxhLXBnxeitisKA=
+			IeK8+oP3TEFkhjUpA5GQUIQSmAs=
 			</data>
 			<key>hash2</key>
 			<data>
-			z1gQlkFHEmD8gdDdmekxyxbBjwxodHIx2nns1/4Ut38=
+			ZEYjw+wasrbFAESk1RjDMzFSvMBV8PQSjtcxukI+lvI=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7V6GD4ASAH5IOO/inQFTFzksP3w=
+			1TJRgfDnOgYPpIaeFubzWGBtGho=
 			</data>
 			<key>hash2</key>
 			<data>
-			lw+kb0xxHJN7FKXIQ5ZdY544gewQos9FfHGK/gz3EwY=
+			PRzml9TwJtGmz87A+c2q8Bw0wAanJtYEkTBA9umrRvI=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Lato-Black.ttf</key>
@@ -5841,33 +5706,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T6ivqnu1FRJG6TLUBp3+HrbGsBw=
+			OoljCHSLe5el387Rzug/c2frSEo=
 			</data>
 			<key>hash2</key>
 			<data>
-			S/AUgJGzilv1IhkZVTAU6lOSFHC2GvCWM14S7kr7syI=
+			21d9ye1gc7nvCkd5Mv4NCCVH45GrZraKN1xUzOc0q/g=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/7lu-3K-5sH-view-FfP-bU-v5u.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T6ivqnu1FRJG6TLUBp3+HrbGsBw=
+			OoljCHSLe5el387Rzug/c2frSEo=
 			</data>
 			<key>hash2</key>
 			<data>
-			S/AUgJGzilv1IhkZVTAU6lOSFHC2GvCWM14S7kr7syI=
+			21d9ye1gc7nvCkd5Mv4NCCVH45GrZraKN1xUzOc0q/g=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/7lu-3K-5sH-view-FfP-bU-v5u.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T6ivqnu1FRJG6TLUBp3+HrbGsBw=
+			OoljCHSLe5el387Rzug/c2frSEo=
 			</data>
 			<key>hash2</key>
 			<data>
-			S/AUgJGzilv1IhkZVTAU6lOSFHC2GvCWM14S7kr7syI=
+			21d9ye1gc7nvCkd5Mv4NCCVH45GrZraKN1xUzOc0q/g=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/8Jg-2T-Cce-view-sUk-gW-JK7.nib/objects-11.0+.nib</key>
@@ -5940,66 +5805,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7QMkZVO8c6MuFCQiDMZ+eLbkdNY=
+			ta9dx94LBDmtiCptgas+PSKBt4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZyOcCaE4s5ueL5Cg65DwmaASytDgTU1VCufuPwhjI6Q=
+			AJ/b6sVKSOGRyCdX2F0hRtp83gpaYsu83Jw/gAAD7lk=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Bz8-Rb-itt-view-YSO-Vz-f0M.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7QMkZVO8c6MuFCQiDMZ+eLbkdNY=
+			ta9dx94LBDmtiCptgas+PSKBt4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZyOcCaE4s5ueL5Cg65DwmaASytDgTU1VCufuPwhjI6Q=
+			AJ/b6sVKSOGRyCdX2F0hRtp83gpaYsu83Jw/gAAD7lk=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Bz8-Rb-itt-view-YSO-Vz-f0M.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7QMkZVO8c6MuFCQiDMZ+eLbkdNY=
+			ta9dx94LBDmtiCptgas+PSKBt4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZyOcCaE4s5ueL5Cg65DwmaASytDgTU1VCufuPwhjI6Q=
+			AJ/b6sVKSOGRyCdX2F0hRtp83gpaYsu83Jw/gAAD7lk=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Elz-Wl-nFe-view-ovI-qN-PFA.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			770FMsezIL8LwsrJmKiY6yRhtnE=
+			eatSKYt7BIjPbReQf6wgm6ec7zU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tp3hNal91qcIKAZlpFE5do1F70P8AV6bGNcJjjfn6Y4=
+			OMFaqI7/IrcCdtepB294eWRwLEtUquijkEDcdiFrTRI=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Elz-Wl-nFe-view-ovI-qN-PFA.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			770FMsezIL8LwsrJmKiY6yRhtnE=
+			eatSKYt7BIjPbReQf6wgm6ec7zU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tp3hNal91qcIKAZlpFE5do1F70P8AV6bGNcJjjfn6Y4=
+			OMFaqI7/IrcCdtepB294eWRwLEtUquijkEDcdiFrTRI=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Elz-Wl-nFe-view-ovI-qN-PFA.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			770FMsezIL8LwsrJmKiY6yRhtnE=
+			eatSKYt7BIjPbReQf6wgm6ec7zU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tp3hNal91qcIKAZlpFE5do1F70P8AV6bGNcJjjfn6Y4=
+			OMFaqI7/IrcCdtepB294eWRwLEtUquijkEDcdiFrTRI=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Info.plist</key>
@@ -6017,99 +5882,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			awuxCdhP/+QVZlCx0PvDFejNrtc=
+			14zt5tu23wZQJp4PqWG92FEr0D4=
 			</data>
 			<key>hash2</key>
 			<data>
-			u3TXPsvm4oz/6542nk89pkInQHrMqFr8y7amJSLVmdQ=
+			Fi03tHBx2RHNspZxf+qYJIA608dMx7Ni0Gplr2IrwuY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Jlz-ac-96E-view-bcj-Og-5tG.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			awuxCdhP/+QVZlCx0PvDFejNrtc=
+			14zt5tu23wZQJp4PqWG92FEr0D4=
 			</data>
 			<key>hash2</key>
 			<data>
-			u3TXPsvm4oz/6542nk89pkInQHrMqFr8y7amJSLVmdQ=
+			Fi03tHBx2RHNspZxf+qYJIA608dMx7Ni0Gplr2IrwuY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Jlz-ac-96E-view-bcj-Og-5tG.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			awuxCdhP/+QVZlCx0PvDFejNrtc=
+			14zt5tu23wZQJp4PqWG92FEr0D4=
 			</data>
 			<key>hash2</key>
 			<data>
-			u3TXPsvm4oz/6542nk89pkInQHrMqFr8y7amJSLVmdQ=
+			Fi03tHBx2RHNspZxf+qYJIA608dMx7Ni0Gplr2IrwuY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/K1S-Ea-CxX-view-nrH-iN-syD.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			THWOmKnQhZ6jnlNBtxzmJti8AsM=
+			ah4v5S0fswpx0ij/K7RHu1YUBWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			+rYSBVW9SZFlBMwA12jZoVMnGjt4nF0Akk5QTz495bs=
+			yXLNPEJbDK2o/RU4tDpuCQjTDxMuhM4HziJAop8ZD60=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/K1S-Ea-CxX-view-nrH-iN-syD.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			THWOmKnQhZ6jnlNBtxzmJti8AsM=
+			ah4v5S0fswpx0ij/K7RHu1YUBWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			+rYSBVW9SZFlBMwA12jZoVMnGjt4nF0Akk5QTz495bs=
+			yXLNPEJbDK2o/RU4tDpuCQjTDxMuhM4HziJAop8ZD60=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/K1S-Ea-CxX-view-nrH-iN-syD.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			THWOmKnQhZ6jnlNBtxzmJti8AsM=
+			ah4v5S0fswpx0ij/K7RHu1YUBWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			+rYSBVW9SZFlBMwA12jZoVMnGjt4nF0Akk5QTz495bs=
+			yXLNPEJbDK2o/RU4tDpuCQjTDxMuhM4HziJAop8ZD60=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/NDr-TZ-fe7-view-f8H-UG-GDh.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dYo2PE4gFcXMY8SKVkm009RYWXE=
+			0hu9jWbx7dhVlSL+0WVfQGx5jWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			6On2DEdprX7sPGMQWEX2hbMkyYRdrFzUt+86GnmkdeE=
+			3teb/yXU/mjFpenuOEyLyg4rbaCjgkSzyaxlunVhhC4=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/NDr-TZ-fe7-view-f8H-UG-GDh.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dYo2PE4gFcXMY8SKVkm009RYWXE=
+			0hu9jWbx7dhVlSL+0WVfQGx5jWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			6On2DEdprX7sPGMQWEX2hbMkyYRdrFzUt+86GnmkdeE=
+			3teb/yXU/mjFpenuOEyLyg4rbaCjgkSzyaxlunVhhC4=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/NDr-TZ-fe7-view-f8H-UG-GDh.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dYo2PE4gFcXMY8SKVkm009RYWXE=
+			0hu9jWbx7dhVlSL+0WVfQGx5jWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			6On2DEdprX7sPGMQWEX2hbMkyYRdrFzUt+86GnmkdeE=
+			3teb/yXU/mjFpenuOEyLyg4rbaCjgkSzyaxlunVhhC4=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/PageViewController.nib/objects-11.0+.nib</key>
@@ -6149,33 +6014,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CBJdAT9ZPsbp5Ivy/NWp3H4TkEM=
+			Qdj8yrpSxZHySOK+NpqO8Xae+aw=
 			</data>
 			<key>hash2</key>
 			<data>
-			BIH2xupv2kIZ/2TUnPXd07DX6OheuM9ojEsA1KbGP78=
+			PyJpYTd4uS0jfASr6B5wC8dvm2zOQUPudWxZggp5uyY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Qea-ns-9T0-view-T5z-bL-nY2.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CBJdAT9ZPsbp5Ivy/NWp3H4TkEM=
+			Qdj8yrpSxZHySOK+NpqO8Xae+aw=
 			</data>
 			<key>hash2</key>
 			<data>
-			BIH2xupv2kIZ/2TUnPXd07DX6OheuM9ojEsA1KbGP78=
+			PyJpYTd4uS0jfASr6B5wC8dvm2zOQUPudWxZggp5uyY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Qea-ns-9T0-view-T5z-bL-nY2.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CBJdAT9ZPsbp5Ivy/NWp3H4TkEM=
+			Qdj8yrpSxZHySOK+NpqO8Xae+aw=
 			</data>
 			<key>hash2</key>
 			<data>
-			BIH2xupv2kIZ/2TUnPXd07DX6OheuM9ojEsA1KbGP78=
+			PyJpYTd4uS0jfASr6B5wC8dvm2zOQUPudWxZggp5uyY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Uwu-55-OUX-view-NSN-rR-ZKC.nib/objects-11.0+.nib</key>
@@ -6215,33 +6080,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YGeQS/f9tykOjTiL1DI7WcXwAz0=
+			NGJTk6q3NzD8vHFpwmeYiSmJqUA=
 			</data>
 			<key>hash2</key>
 			<data>
-			vVQ+VJ3bGG6OV2AEklt+NK/G1RUtj/tL7EkXDB4MpRY=
+			6QhVx7QBdxqyMgIooLHYqPM3dYcKN+wiz6H706aqpOo=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Vby-Re-ybV-view-Le6-sb-WS8.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YGeQS/f9tykOjTiL1DI7WcXwAz0=
+			NGJTk6q3NzD8vHFpwmeYiSmJqUA=
 			</data>
 			<key>hash2</key>
 			<data>
-			vVQ+VJ3bGG6OV2AEklt+NK/G1RUtj/tL7EkXDB4MpRY=
+			6QhVx7QBdxqyMgIooLHYqPM3dYcKN+wiz6H706aqpOo=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/Vby-Re-ybV-view-Le6-sb-WS8.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YGeQS/f9tykOjTiL1DI7WcXwAz0=
+			NGJTk6q3NzD8vHFpwmeYiSmJqUA=
 			</data>
 			<key>hash2</key>
 			<data>
-			vVQ+VJ3bGG6OV2AEklt+NK/G1RUtj/tL7EkXDB4MpRY=
+			6QhVx7QBdxqyMgIooLHYqPM3dYcKN+wiz6H706aqpOo=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/WTAccountsTVC.nib/objects-11.0+.nib</key>
@@ -6677,33 +6542,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NejVimdiXz2aace1PPtdSBJhbkI=
+			smZ9P2M+uEHLEG55LO/+74DhedE=
 			</data>
 			<key>hash2</key>
 			<data>
-			U9M2eP2lI+qZRPgeqOlf3ujHgf6YcMMq81H/kzLu+lE=
+			cEMb6k1vR2igQiYc/iP+oTyuPXp1hQfZ4LWTV3qV3SY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/WTSettingsTVC.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NejVimdiXz2aace1PPtdSBJhbkI=
+			smZ9P2M+uEHLEG55LO/+74DhedE=
 			</data>
 			<key>hash2</key>
 			<data>
-			U9M2eP2lI+qZRPgeqOlf3ujHgf6YcMMq81H/kzLu+lE=
+			cEMb6k1vR2igQiYc/iP+oTyuPXp1hQfZ4LWTV3qV3SY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/WTSettingsTVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NejVimdiXz2aace1PPtdSBJhbkI=
+			smZ9P2M+uEHLEG55LO/+74DhedE=
 			</data>
 			<key>hash2</key>
 			<data>
-			U9M2eP2lI+qZRPgeqOlf3ujHgf6YcMMq81H/kzLu+lE=
+			cEMb6k1vR2igQiYc/iP+oTyuPXp1hQfZ4LWTV3qV3SY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/WTSolidColorsCVC.nib/objects-11.0+.nib</key>
@@ -6875,33 +6740,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NXqZPRA5ZNo+D9VkfruGYQrktkY=
+			BkNi+S8wdLNZUsD7eaVTCEMGJr0=
 			</data>
 			<key>hash2</key>
 			<data>
-			8RPQjgJm6evhGboZwTYBg3ydD5b5xVhcjALVuUpfvSs=
+			U5YuLZTyo5J4rrfTI/nkjH+jRdef0h6AahA/saKHxH4=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/c33-sH-Fxy-view-KPv-FE-Mat.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NXqZPRA5ZNo+D9VkfruGYQrktkY=
+			BkNi+S8wdLNZUsD7eaVTCEMGJr0=
 			</data>
 			<key>hash2</key>
 			<data>
-			8RPQjgJm6evhGboZwTYBg3ydD5b5xVhcjALVuUpfvSs=
+			U5YuLZTyo5J4rrfTI/nkjH+jRdef0h6AahA/saKHxH4=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/c33-sH-Fxy-view-KPv-FE-Mat.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DPjWGaC2UhPb9bnt97+xcnVgA5M=
+			vGK6X/Q+VGSu6xhjFWI3VgNGR6U=
 			</data>
 			<key>hash2</key>
 			<data>
-			vI+Vpe6ODoWiIjItQAZT9Jc7lOFbg+wN3L0gP17heH4=
+			Ex+qQRHgTZStp/jGRE1zDdCEvcQLarr+BFeXO19buUY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/cbV-ag-MfP-view-85i-Am-HOm.nib/objects-11.0+.nib</key>
@@ -6941,33 +6806,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KNvk0NsMvbSkMH8ZP4crEDrdYy8=
+			9SdRU5lUN03cFXqiZ+Zi0AlQSns=
 			</data>
 			<key>hash2</key>
 			<data>
-			swQNz1GJiffw6uQ9tgj+9CN5WR73zp02pRUgvOgjbvE=
+			wHjXwNKEki02nO/g2qzlnUvI9bnDnqfK32vQXr8y+ns=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/dhB-HX-6Ah-view-zBD-Xb-bdi.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KNvk0NsMvbSkMH8ZP4crEDrdYy8=
+			9SdRU5lUN03cFXqiZ+Zi0AlQSns=
 			</data>
 			<key>hash2</key>
 			<data>
-			swQNz1GJiffw6uQ9tgj+9CN5WR73zp02pRUgvOgjbvE=
+			wHjXwNKEki02nO/g2qzlnUvI9bnDnqfK32vQXr8y+ns=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/dhB-HX-6Ah-view-zBD-Xb-bdi.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KNvk0NsMvbSkMH8ZP4crEDrdYy8=
+			9SdRU5lUN03cFXqiZ+Zi0AlQSns=
 			</data>
 			<key>hash2</key>
 			<data>
-			swQNz1GJiffw6uQ9tgj+9CN5WR73zp02pRUgvOgjbvE=
+			wHjXwNKEki02nO/g2qzlnUvI9bnDnqfK32vQXr8y+ns=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/f0r-gM-jnO-view-Ckw-oP-nG3.nib/objects-11.0+.nib</key>
@@ -7007,33 +6872,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XXlUfLzuUNmWLA3FnMU6fXnT1zo=
+			CEXioKKV+z13KdRRIcDWpzkBBtY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kf2uYpOdARVBMpfQNARyT+p3nYjHODUH1cXvsCjC0r4=
+			dcBBAATLz5a48zgTXFXA+CmJfv96M5U3QLWT0hraqu8=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/ooK-bq-Z9v-view-JYf-pw-nmP.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XXlUfLzuUNmWLA3FnMU6fXnT1zo=
+			CEXioKKV+z13KdRRIcDWpzkBBtY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kf2uYpOdARVBMpfQNARyT+p3nYjHODUH1cXvsCjC0r4=
+			dcBBAATLz5a48zgTXFXA+CmJfv96M5U3QLWT0hraqu8=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/ooK-bq-Z9v-view-JYf-pw-nmP.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XXlUfLzuUNmWLA3FnMU6fXnT1zo=
+			CEXioKKV+z13KdRRIcDWpzkBBtY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kf2uYpOdARVBMpfQNARyT+p3nYjHODUH1cXvsCjC0r4=
+			dcBBAATLz5a48zgTXFXA+CmJfv96M5U3QLWT0hraqu8=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/rn7-KR-gc0-view-6fs-GT-5t8.nib/objects-11.0+.nib</key>
@@ -7073,66 +6938,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yAhJUSBUrtENKMw5QgOP97ksILo=
+			3XND8TROat3+razbYEgvOCTIJRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			wR6jWIRrE2c/qMXsRxyh1pHSjaGqrHy+URa6lvOgDIg=
+			XlfbiZlQiaJJFMWeqnMhU4GnrIpfFK4D19+vBlKrm/U=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/zqV-uj-0XU-view-72h-hi-9vB.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yAhJUSBUrtENKMw5QgOP97ksILo=
+			3XND8TROat3+razbYEgvOCTIJRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			wR6jWIRrE2c/qMXsRxyh1pHSjaGqrHy+URa6lvOgDIg=
+			XlfbiZlQiaJJFMWeqnMhU4GnrIpfFK4D19+vBlKrm/U=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Settings.storyboardc/zqV-uj-0XU-view-72h-hi-9vB.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yAhJUSBUrtENKMw5QgOP97ksILo=
+			3XND8TROat3+razbYEgvOCTIJRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			wR6jWIRrE2c/qMXsRxyh1pHSjaGqrHy+URa6lvOgDIg=
+			XlfbiZlQiaJJFMWeqnMhU4GnrIpfFK4D19+vBlKrm/U=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTAudioMessageReceiverTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OxX32hcM8FfMVdTmxkKgIVghc0k=
+			8C+2FkJByRJ4R+eVjWpvFZMm+bk=
 			</data>
 			<key>hash2</key>
 			<data>
-			QyOFKTlU3JZmw8VAN2L7h1niM4Nk7NVpqa22HXfBvZQ=
+			/AjEz7mw7JCsUgyfudHm/qTlvym8yTELMbgx+j/QmRg=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTAudioMessageSenderTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a1mZnxo7ixMwyPb3HhyR53R+cGg=
+			I7ILewsyxxHyLolUyxgl6ekZRWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			JCUyvnpH7bdG74t1ujYNsSYaoMQrYE9DbXqXXCR/puA=
+			nkaffu6nK+L2McyFD+jZVCICTXE91/bJhUIbXuSemp8=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTAudioMessageView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MHTyO/om2gUfAOC9DWG8qXfKbm4=
+			NQ8y1J3BP2MNGzf25xF9FNAHRNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			r+uiHtnXDWVdeQNVA7Fn/+zGJ+vUJJZ8dGyazVslrv4=
+			Y2gtjxkWSIgwqNriAP7U4J8jS3xdER+bHTp+EkDSPZw=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTBase.storyboardc/Info.plist</key>
@@ -7161,11 +7026,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xwabn3SpoS2xrjIKSuPcclC+oMU=
+			2rbWXSxWTFlVO1u+3GWhHajy8P8=
 			</data>
 			<key>hash2</key>
 			<data>
-			scSw4r6JrpEEo+BQqllxyNFwgvjRclhdW3j7V82sCjI=
+			q603zmM40/xuV8XvI1u71Dhk4ClvMayUqDMLfn9KEU0=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTButton.nib</key>
@@ -7183,33 +7048,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			205hI5KVEX9iuWqsIRnvxz2lBKQ=
+			fav5VOYzYoorCxELNOahQScEMOg=
 			</data>
 			<key>hash2</key>
 			<data>
-			yugJ9ing7F5yRJ2Hnr8/YOzZ+yIXJGBMBG7TqMmCCmA=
+			/zBc80nECZDIUH5JjBnvcOlWZ5C6dYeCV2xux2F5xFs=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTHTMLMessageSenderTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OTk/kaofhXnQUDtsykmxsvduUaI=
+			su4tf+pB4fRLpVxsS06L3YaA3XU=
 			</data>
 			<key>hash2</key>
 			<data>
-			DlYdtwmSeBUBaVLOlcXraIzBHUEc5g50COTzbssBupc=
+			v2XGoDjL14Igh2sdYrBZQDFIuIy3f0Q1U2dha0QAeQs=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTHTMLMessageView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wUs0g6PS0/0wK5igdURH4XSbiLE=
+			uc8gOzaTWnDwdZWVANI+9Cnp9I8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Hx1reC7QkQ74bEgARsWO2xYg8++VdCxyaaLSF0bAJ+E=
+			MVWXpSCYfuU4UoETeHej5FiUKSkwIyIxsJ9gWx+0Xdg=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTLabelTblCell.nib</key>
@@ -7238,187 +7103,187 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvQ/DdJqS+DKGFiLbqXVdntprWE=
+			xpZrwiELDvcN+B6773ITbY6yjqQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Bgy5EGqhBADhpv7G3xLuDsQHMlByWcjxzeFHkKZzClM=
+			2QG74ZFbxHAJ8MAL6zbEUzgoxSTwBUOHjCBKKH18/DE=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTMessageMediaOthersTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			n3oB44N7k2iHOGLkc47gxmBpu80=
+			1GHVOMPny4fBf11MpROHbpchy9k=
 			</data>
 			<key>hash2</key>
 			<data>
-			mVqQYIDKBGUPtbQ5gMboFqXafkk+IPxxaN17HxGqcdM=
+			s0/f733523andX5bBhV+d9xeW/4QcPydwKLsAYuexII=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTMessageMediaSenderTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			grHGusRxpcD6TS8j6dOyuTCFn8o=
+			xkVSOjTsyhQVTLizlUtYgQsBQkA=
 			</data>
 			<key>hash2</key>
 			<data>
-			vYtIztPGSqEBx2a8L+xBGvfkka+uCKGGvs6duMUfejw=
+			SQldrcIuUKu9vbDEaXf82LtIvtDH0lhPtYBAy4IFiZs=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTMessageMediaView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VKgek1gIt/6ttd4hQZVrrdXhNmY=
+			JKV0ui1zEFsHsJgJCZ9/fsTn19c=
 			</data>
 			<key>hash2</key>
 			<data>
-			iGf/lF8TeM2MGHlJyWNXtVKfhBs7ZIhcIfOqUmoPGUE=
+			XcKJ93XfJLoACfwCJ4M3QT/A8AVbPB5Vi35bKsGs+Tg=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTOtherMessageTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q0TnXXPldqmW3Ddu8UBQBsvuBMs=
+			Z3JvHZ7xbulw7Kbw12Jn9ylSE+w=
 			</data>
 			<key>hash2</key>
 			<data>
-			3Mta7lkYYblVDtcSLnY2xOW2MGGYr62mDJz7tpm+rWY=
+			w9/I1/aBl1MPLdgthanP9AoNAzlr+jRUlmEBqs10M6I=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedAudioMessageReceiverTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IR7wpfJhBv6zu+49r+apaVUXNU4=
+			w2qZmTFf385U3qOv0sdX4keUP/k=
 			</data>
 			<key>hash2</key>
 			<data>
-			eByWYVygZ2TlFr9yMR7415IrkIezBbdt3NabVWoZpQE=
+			ZLiIzd2s4+Yj7b2XPHeF+Nyz2juJry0KSstenJ0aYN0=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedAudioMessageSenderTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W6zs3UglPnOfR//yeqvRfdbo6xo=
+			VNIOKxHUl4T/wtNg78OgS1uTLMo=
 			</data>
 			<key>hash2</key>
 			<data>
-			yeUcCYve3zzjLNG9v+ymCDm2juGCYm1LpBMa7/JK6T4=
+			DYaOgCYYYnS+kYkKAfHgwuIQsa+nax4EW5fbrJrt1s8=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedContentView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gyj2Kuk76ly/tNpV+0Y+U6zihEg=
+			Ouc5fLLxf8uj5UstT986ZxrZbhk=
 			</data>
 			<key>hash2</key>
 			<data>
-			hM+SiLTQgmtBstgwAejJi9GNRBwv34SFDa7uN/dQJmM=
+			XVpDJykYplzBHA57Xsk9/I/ia6TmqgFZjbVtJ8RHZKs=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedImageMessageReceiverTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eko/AvlFZaFdiKbGCoudqS6C0Zc=
+			j4SVyp/Md3ss+cwXa8WqikzzbK0=
 			</data>
 			<key>hash2</key>
 			<data>
-			hKqgFZ6sqLqSdYh3Q/tGFWMRNM8o9XvbTsbSW6kFVtk=
+			5VL5sybT8frhKIBQQ4HCnPOlwy3GC1vS97vTtjafH1g=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedImageMessageSenderTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wvYuGGBtbcpWlXEHCsIpkvP+OGM=
+			F5vAHd4z1haTBdLgi9KCrFrfOiE=
 			</data>
 			<key>hash2</key>
 			<data>
-			cOFcZeixTrt7S3baNsX/Q2zhgnNqq6/L4x1bxPjPwdk=
+			G8JUOmSt4bAsgtEQ72CBmhPe2svkg9Bb2V547rvKngQ=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedMessageMediaView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yxm+oWmdD80S4yvpLHzPnkfb/jc=
+			+2dKTVX1CZUbsWWvO6gscCRDTNQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			twdjFVKPFBRYcVJ8cj09Try9OolJ//NWxakU2uhNW44=
+			xTWnGwpvViVVA0hq8MBTc4Q7L6QjA8pCNfPc/wBemoY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedTextMessageReceiverTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CO//jWjXreGaeOvZqb37AiMa/vE=
+			cPUw8UI2h5pt+BoLP1O+WS8DpWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			qfJDfD7fmgoKPRuR+TY/4PGu+tQJ9b56z45rxPgg+YY=
+			wYR+lTP+dQ3QB/jEuefPe0tzUCpY5GLAqy8NdLV7b9Q=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedTextMessageSenderTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N/marvoPhf72TNQ+y2m0nrirANI=
+			i9qxK5epyvDk4eXqLU6aB2SIR4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			rhoIc06sVJHZ9RZzoZZroYkQ/bW/7byPzPiRo4isRKE=
+			To0Jiwq+Lf3oNzROx55L3FrS4ou43EhhWWYG1pf2MgM=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedVideoMessageReceiverTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q1D6nxaB+y6V4NnejZLU3F/1jNw=
+			ikXJkscqhxMx9w014tFQI900MlQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			/t8Rki3SiJ6hLxayPOq9a+ub/8wu9u50fQ/taBmGGls=
+			CvLv56ZDCtlr3hoJJFkDtJ1WO26N2nADNdYpsm8A/1Q=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedVideoMessageSenderTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VvSmEr/Pw9wjCZEz5ZhQ98hSo44=
+			84CI4nzZjUulIzdZJg2xhFnI9nE=
 			</data>
 			<key>hash2</key>
 			<data>
-			AKo7cL9srlCKAQ7MOD7n9BN5NMyPpEBuL3bXyu7LlqY=
+			FuDWbThKWThjA2Ix5lYWjlDL8Wu2c5AaC0Oxt6Nz5gk=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTRepliedVideoMessageView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FRwcwuo2wfMTIv4Wjz1Kszfns1Q=
+			y9m7cXJm4hZ2/Z9tY6Nn2IqJQ80=
 			</data>
 			<key>hash2</key>
 			<data>
-			eC/xVAkNqF5xPCcL+ZAVkaYmH6VY9VMcn24ro4GzYy4=
+			yD2BBTTKTs8HcRLuU38+sh9MWQGCK1en5B+3FyRdd8A=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTSelfMessageTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ioYk3EItqiMEeH6xYSgfh8vhrQk=
+			ftEBBQISiOs5e8grwNA9iz8OYbc=
 			</data>
 			<key>hash2</key>
 			<data>
-			wFAwpsDQvmw7GXdKNfH6CEeuM/aeQygg8lLEqj9N/4w=
+			V/OJOs0ejGqAkXiFrOxtVn6Z93iShJiss2YtW77gg/8=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTSettingConnectionTblCell.nib</key>
@@ -7447,55 +7312,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ooNp7rDQBT0VztDWSOuCPQDInkY=
+			o9U9W/c5jBsM9YnneZJ7OfY2Dw8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z7MeZ2/nYv828Id2I+JrfHcqyZnpASrOIXi8AQmucP0=
+			7wNKFSs/c9SjPL87ItlbTc58XEhjUxdD/B29bI5VhQg=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTVideoMessageReceiverTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oxJU8wUsCp/5KzBX9iQ5J1N79/o=
+			Wwvu2PzLVeWziouoXngXctAXfFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			DYJVL4Aa+RUijT49mxgyCZN2W9XW5yQXttB7nB+z1IQ=
+			K10i3PUv+fxDpEZojaB/1LTqqzwblHctamHx1yE0lLw=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTVideoMessageSenderTblCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mzMsl07mpvuPw0S1JwBAexqGcF0=
+			vacre/Qx8g71M+YvarnsK5zIP9U=
 			</data>
 			<key>hash2</key>
 			<data>
-			PUIrvg8lff6XN6/yJiO1XA1+fRYId8NwkR9Gfj0yLmI=
+			fXDsdqVjRMhLLtzAjkTi6jg3xRuOgBOKSom9Df5VBK8=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/WTVideoMessageView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZCSXwube6nxo3bTBjNUlqqJzQdk=
+			K75vy7vz0nvcjlLaQdyg7bG1vLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			aLu6f3Vks6tQM8QiF/ooZ14xTtctpu8NFS8Cd0r+ByE=
+			epg8vSxc6cV4GcO9J8ylMQ1C4P4K8W7DQ57PuMCv1NE=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qymjohERfRMe5Fy0/YZ27ABf9sE=
+			lciqUWKsd6X1Z06ceZCyns6eTDs=
 			</data>
 			<key>hash2</key>
 			<data>
-			cLun8J0UnkJDGYuGI8C3ms7E6oOpGRuY1WWhqh0emWc=
+			9dtRjom8+uxPaEqcvLkm3Topnf6+7xAfqXbxfmiyGlk=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -7513,22 +7378,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1eSu7ci6JZxqKQRfQFRUEviNBhY=
+			ku7jqC3JOlrToGxOo7iCOUDJp7w=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y6GcvzojbQm869U79qc5j6WpQ1CcVPLkBUj5pZ27rGU=
+			wMjKKXTjiaOF/feRNBiHWmKMQ4QqKnrQMdfbCMExwwM=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L7pa83XB0zyBHBFxvKKeeKlu9Vo=
+			36Y272Ui57YzjY3RH/j4OsF5qDc=
 			</data>
 			<key>hash2</key>
 			<data>
-			pSfIWSDOXhqbnx5hbcLM6874bNc7yXkQZuiDaKBtd+A=
+			Ykq2zbSdv2M3HRhKJvJl2izURxuTlrIQEABXzt+4IkY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeSignature</key>
