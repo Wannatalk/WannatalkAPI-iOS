@@ -71,7 +71,7 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		UYnI89gab05tUHl7ZKfkYJ2s+sg=
+		Csonv3F7RGrUYmHTcHetSuqUH2w=
 		</data>
 		<key>Modules/WTExternalSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -179,11 +179,11 @@
 		</data>
 		<key>Wannatalk.bundle/Assets.car</key>
 		<data>
-		bPsC3R4+XoTmMrYiTDCDf1kbB8s=
+		MI2HWmM+WHVjtpmakZXE8gaTtJQ=
 		</data>
 		<key>Wannatalk.bundle/Info.plist</key>
 		<data>
-		uqjGD7A8D3LiIaZr85R3kKXacBE=
+		NpjzAj8itgETDP/RllxBQZHBwp8=
 		</data>
 		<key>Wannatalk.bundle/Organization.storyboardc/72p-Vl-9Tj-view-xzC-FZ-Pgc.nib</key>
 		<data>
@@ -1167,7 +1167,7 @@
 		</data>
 		<key>Wannatalk.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		/1ZyK0/kRJHFGNXVRvz8vGerHMo=
+		pTvTrXbPRYq0ane/jkli9s526Ng=
 		</data>
 		<key>Wannatalk.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -1175,11 +1175,11 @@
 		</data>
 		<key>Wannatalk.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		JKK2pwen52UHKWGxU8mSuT+gStA=
+		mT7VDAnEv5jvRrloz4gRD4NA4A8=
 		</data>
 		<key>Wannatalk.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		fW7TcclYhOo/4EDsiyZo9zJ3Jz4=
+		Q2pGbEQvsOHEHxrWWOtmEwFl0Ag=
 		</data>
 		<key>Wannatalk.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -1319,11 +1319,11 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/Assets.car</key>
 		<data>
-		IeK8+oP3TEFkhjUpA5GQUIQSmAs=
+		JG7I1ywWyHKtoPgxyWt/4Zm246Y=
 		</data>
 		<key>WannatalkSDKResources.bundle/Info.plist</key>
 		<data>
-		1TJRgfDnOgYPpIaeFubzWGBtGho=
+		Vq0egA+5xiUobN7kVssFd9SY3Ro=
 		</data>
 		<key>WannatalkSDKResources.bundle/Lato-Black.ttf</key>
 		<data>
@@ -1963,7 +1963,7 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		lciqUWKsd6X1Z06ceZCyns6eTDs=
+		m1ahNSIyUKr8AZL/11GUaziaIcQ=
 		</data>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -1971,11 +1971,11 @@
 		</data>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		ku7jqC3JOlrToGxOo7iCOUDJp7w=
+		MKVJBntWaIPBOOUZ/3mkA7hOlIo=
 		</data>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		36Y272Ui57YzjY3RH/j4OsF5qDc=
+		JJZ/3497NkJAIMZpqN7Ui9SZPJs=
 		</data>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -2450,22 +2450,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bPsC3R4+XoTmMrYiTDCDf1kbB8s=
+			MI2HWmM+WHVjtpmakZXE8gaTtJQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			yDtKqD1wZBaMMksmuWeIMUysHICOjeYT77cCBwpwDG8=
+			s/Jan8XusEL47l3g5fdUlyz4jnpNKe5WexK4Pk0JD+Q=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uqjGD7A8D3LiIaZr85R3kKXacBE=
+			NpjzAj8itgETDP/RllxBQZHBwp8=
 			</data>
 			<key>hash2</key>
 			<data>
-			AUL4ADZ44rgR4oOgV+4zqwITQbA/OaDQH7Mbw6S2dhQ=
+			fJ6nWPZRL2afYL8hAGepraSn7hyJji4z7EaOBvDxqkc=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/Organization.storyboardc/72p-Vl-9Tj-view-xzC-FZ-Pgc.nib</key>
@@ -5167,11 +5167,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/1ZyK0/kRJHFGNXVRvz8vGerHMo=
+			pTvTrXbPRYq0ane/jkli9s526Ng=
 			</data>
 			<key>hash2</key>
 			<data>
-			U8HYWJwfMPe2b21cZUBMU4yJlHUEgabdX1Pi7vzBOek=
+			eXrs+jra8OQ8Mv7Fnmrm5LbticVzx6us35gJKFYo66c=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/_CodeSignature/CodeRequirements</key>
@@ -5189,22 +5189,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JKK2pwen52UHKWGxU8mSuT+gStA=
+			mT7VDAnEv5jvRrloz4gRD4NA4A8=
 			</data>
 			<key>hash2</key>
 			<data>
-			0berpjK6+LqjMszYU+1Vi6vbafBvFVoVJq6ajKx4GTM=
+			E/4g8PGJ1/MdQD62qszbgA4NOEeJdiKgOTnYsOUE75g=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fW7TcclYhOo/4EDsiyZo9zJ3Jz4=
+			Q2pGbEQvsOHEHxrWWOtmEwFl0Ag=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ap5ucqNmjbs/X1SYkRrTUi7XJdJ1ThBDfD6jCAJuxxU=
+			KEHJMB3z/sJ8NKuLfits0jmkQoS5CotxoNjbkiLeOnE=
 			</data>
 		</dict>
 		<key>Wannatalk.bundle/_CodeSignature/CodeSignature</key>
@@ -5585,22 +5585,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IeK8+oP3TEFkhjUpA5GQUIQSmAs=
+			JG7I1ywWyHKtoPgxyWt/4Zm246Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZEYjw+wasrbFAESk1RjDMzFSvMBV8PQSjtcxukI+lvI=
+			XEsDUikq3yODwWrSLH6sdCwW9dG6Cj9oOGszTQhakPI=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1TJRgfDnOgYPpIaeFubzWGBtGho=
+			Vq0egA+5xiUobN7kVssFd9SY3Ro=
 			</data>
 			<key>hash2</key>
 			<data>
-			PRzml9TwJtGmz87A+c2q8Bw0wAanJtYEkTBA9umrRvI=
+			ZJu6tZX5s88upT+rP236BbbZpNAP2aVksPB+EyIu+Ko=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/Lato-Black.ttf</key>
@@ -7356,11 +7356,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lciqUWKsd6X1Z06ceZCyns6eTDs=
+			m1ahNSIyUKr8AZL/11GUaziaIcQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			9dtRjom8+uxPaEqcvLkm3Topnf6+7xAfqXbxfmiyGlk=
+			0eARraP10bD7gEU372vq7e+QVGpQNi9lIvzn/HvYPgM=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -7378,22 +7378,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ku7jqC3JOlrToGxOo7iCOUDJp7w=
+			MKVJBntWaIPBOOUZ/3mkA7hOlIo=
 			</data>
 			<key>hash2</key>
 			<data>
-			wMjKKXTjiaOF/feRNBiHWmKMQ4QqKnrQMdfbCMExwwM=
+			4K9JvP0qm7uIe29n6AP8QWVoZHxdqDms7tahzka7DnY=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			36Y272Ui57YzjY3RH/j4OsF5qDc=
+			JJZ/3497NkJAIMZpqN7Ui9SZPJs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ykq2zbSdv2M3HRhKJvJl2izURxuTlrIQEABXzt+4IkY=
+			4Fk48oBBnf9uROFZbWrcdVqI/sr/If4smmrspqZ+ewo=
 			</data>
 		</dict>
 		<key>WannatalkSDKResources.bundle/_CodeSignature/CodeSignature</key>
