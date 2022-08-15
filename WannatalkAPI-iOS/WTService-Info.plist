@@ -8,5 +8,9 @@
 	<string>&lt;your_api_username&gt;</string>
 	<key>WTOrgHash</key>
 	<string>&lt;your_org_hash&gt;</string>
+	<key>WTAPIPath</key>
+	<string>&lt;your_api_path&gt;</string>
+	<key>WTHubPath</key>
+	<string>&lt;your_hub_path&gt;</string>
 </dict>
 </plist>
