@@ -65,9 +65,11 @@
 #pragma mark -
 
 - (IBAction)silentLoginBtnClicked:(id)sender {
+    NSDictionary *userInfo = @{ @"displayname": @"SG", @"key1": @"value1", @"key2": @"value2"};
+    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"+919000220455" userInfo:userInfo fromVC:self];
     
-    NSDictionary *userInfo = @{ @"displayname": @"<display_name>", @"key1": @"value1", @"key2": @"value2"};
-    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<identifier>" userInfo:userInfo fromVC:self];
+//    NSDictionary *userInfo = @{ @"displayname": @"<display_name>", @"key1": @"value1", @"key2": @"value2"};
+//    [[WTLoginManager sharedInstance] silentLoginWithIdentifier:@"<identifier>" userInfo:userInfo fromVC:self];
 
 }
 
@@ -79,7 +81,7 @@
 
 - (IBAction)orgProfileClicked:(id)sender {
 //    [self.navigationController pushOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES];
-    [self presentOrgProfileVCWithAutoOpenChat:YES delegate:self animated:YES completion:nil];
+    [self presentOrgProfileVCWithAutoOpenChat:YES autoOpenChannelID:399 delegate:self animated:YES completion:nil];
 }
 
 - (void) loadChatList {

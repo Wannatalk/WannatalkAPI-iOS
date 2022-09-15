@@ -13,7 +13,7 @@
 @interface UINavigationController (WannatalkSDK)
 
 
-- (void) pushOrgProfileVCWithAutoOpenChat:(BOOL) autoOpenChat delegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated;
+- (void) pushOrgProfileVCWithAutoOpenChat:(BOOL) autoOpenChat autoOpenChannelID:(NSInteger) autoOpenChannelID delegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated;
 
 - (void) pushChatListVCWithDelegate:(id <WTSDKManagerDelegate>) delegate animated:(BOOL) animated;
 
