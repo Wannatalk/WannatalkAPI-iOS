@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   #1.
   s.name            = "WTExternalSDK"
   #2.
-  s.version         = "1.7.8"
+  s.version         = "1.7.9"
   #3.
   s.summary         = "'WTExternalSDK' framework"
   #4.
