@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface WTBotMessageHandler : NSObject
 
-- (void) sendMessage:(NSString *) message orgID:(NSInteger) orgID channelID:(NSInteger) channelID onCompletion:(void(^)(BOOL success, NSString *errorMessage))completionBlock;
+- (void) sendMessage:(NSString *) message orgID:(NSInteger) orgID channelID:(NSInteger) channelID ticketName:(NSString *) ticketName closeOldTickets:(BOOL) closeOldTickets onCompletion:(void(^)(BOOL success, NSString *errorMessage))completionBlock;
 
 @end
 

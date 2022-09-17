@@ -43,12 +43,12 @@
 - (void) loadUserChatPageWithIdentifier:(NSString *) identifier userInfo:(NSDictionary *) dctObject;
 - (void) loadUserChatPageWithIdentifier:(NSString *) identifier chatInputData:(ChatInputData *) chatInputData;
 
-- (void) sendMessage:(NSString *) message orgID:(NSInteger) orgID channelID:(NSInteger) channelID onCompletion:(void(^)(BOOL success, NSString *errorMessage))completionBlock;
+- (void) sendMessage:(NSString *) message orgID:(NSInteger) orgID channelID:(NSInteger) channelID ticketName:(NSString *) ticketName closeOldTickets:(BOOL) closeOldTickets onCompletion:(void(^)(BOOL success, NSString *errorMessage))completionBlock;
 //
 //+ (void) sendMessageToOrganization:(NSInteger) organizationID message:(NSString *) message;
 //
 
 
-+ (void) LoadNewOrgTopic:(struct WTGroup) group message:(NSString *) message fromNavVC:(UIViewController *) nvc;
++ (void) LoadNewOrgTopic:(struct WTGroup) group message:(NSString *) message newTicket:(BOOL)newTicket fromNavVC:(UIViewController *) nvc;
 
 @end

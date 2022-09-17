@@ -2,7 +2,7 @@
   #1.
   s.name            = "WTExternalSDK"
   #2.
-  s.version         = "1.8.0"
+  s.version         = "1.8.1"
   #3.
   s.summary         = "'WTExternalSDK' framework"
   #4.
